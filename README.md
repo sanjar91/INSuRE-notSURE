@@ -40,4 +40,3 @@ Team members that will be executing this project are:
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Test Organization| No | Lisa | We need an organization that we can test our measures and recommendations against.|
-|e.g. PLC unit | Yes | Gary | A programmable logic controller from Siemens for investigation.|
