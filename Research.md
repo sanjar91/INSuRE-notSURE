@@ -7,7 +7,7 @@ Please put the research quotes and links for citation under the appropriate sett
 # Data Centers - Collin
 [US Patent for Cyber security monitoring system and method for data center components](https://patentimages.storage.googleapis.com/1c/e4/c9/b1b3426b6d0e63/US9537879.pdf)
 
-# Internal Networks
+# Internal Networks - Lyle
 
 
 # Endpoints - Sarah
