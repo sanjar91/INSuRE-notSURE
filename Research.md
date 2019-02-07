@@ -25,3 +25,8 @@ https://www.allbusiness.com/5-cybersecurity-measures-every-small-business-should
 https://www.cybersecurityintelligence.com/blog/how-to-measure-cybersecurity-success-3494.html </br>
 https://www.linkedin.com/pulse/how-do-you-measure-success-cybersecurity-gary-manley-ma-pmp </br>
  
+# Frameworks
+U.S. National Institute of Standards and Technology’s (NIST) Cyber Security Framework </br>
+ISO 27001 </br>
+The Open Group’s O-ISM3 </br>
+the Information Security Forum’s Maturity Model Accelerator Tool and the Information Systems Audit and Control Association’s (ISACA) COBIT </br>
