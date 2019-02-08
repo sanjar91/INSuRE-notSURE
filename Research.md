@@ -24,6 +24,7 @@ https://www.howtomeasureanything.com/cybersecurity/ </br>
 https://www.allbusiness.com/5-cybersecurity-measures-every-small-business-should-take-this-year-103090-1.html </br>
 https://www.cybersecurityintelligence.com/blog/how-to-measure-cybersecurity-success-3494.html </br>
 https://www.linkedin.com/pulse/how-do-you-measure-success-cybersecurity-gary-manley-ma-pmp </br>
+https://www.sans.org/reading-room/whitepapers/basics/measuring-effectiveness-information-security-controls-33398 </br>
  
 # Frameworks
 U.S. National Institute of Standards and Technology’s (NIST) Cyber Security Framework https://www.nist.gov/cyberframework </br>
