@@ -1,7 +1,7 @@
 # Research Board for Existing Measurements in Cybersecurity
 Please put the research quotes and links for citation under the appropriate setting
 
-We are using NIST Cybersecurity Framework!!
+We are using NIST Cybersecurity Framework!! https://www.nist.gov/cyberframework
 
 # Perimeter - Lisa
 
@@ -28,7 +28,7 @@ https://www.cybersecurityintelligence.com/blog/how-to-measure-cybersecurity-succ
 https://www.linkedin.com/pulse/how-do-you-measure-success-cybersecurity-gary-manley-ma-pmp </br>
 https://www.sans.org/reading-room/whitepapers/basics/measuring-effectiveness-information-security-controls-33398 </br>
  
-# Frameworks
+# Framework Research
 U.S. National Institute of Standards and Technology’s (NIST) Cyber Security Framework https://www.nist.gov/cyberframework </br>
 ISO 27001  https://www.iso.org/isoiec-27001-information-security.html </br>
 The Open Group’s O-ISM3 https://publications.opengroup.org/c17b </br>
