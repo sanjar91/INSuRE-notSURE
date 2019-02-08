@@ -11,6 +11,7 @@ Please put the research quotes and links for citation under the appropriate sett
 
 [The State of Dynamic Data Center and Cloud Security in the Modern Enterprise](https://cdn2.hubspot.net/hubfs/407749/Downloads/The-State-of-Dynamic-Data-Center-and-Cloud-Security_in-the-Modern-Enterprise.pdf)
 
+[Effective Risk Management In the Data Center](https://www.datacenterknowledge.com/archives/2017/05/08/effective-risk-management-data-center)
 # Internal Networks - Lyle
 
 
