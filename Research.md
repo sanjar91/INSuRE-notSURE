@@ -30,4 +30,4 @@ https://www.sans.org/reading-room/whitepapers/basics/measuring-effectiveness-inf
 U.S. National Institute of Standards and Technology’s (NIST) Cyber Security Framework https://www.nist.gov/cyberframework </br>
 ISO 27001  https://www.iso.org/isoiec-27001-information-security.html </br>
 The Open Group’s O-ISM3 https://publications.opengroup.org/c17b </br>
-
+Broad overview of multiple frameworks https://mindmajix.com/cyber-security-frameworks
