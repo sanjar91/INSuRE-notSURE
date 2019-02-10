@@ -20,7 +20,12 @@ Team members that will be executing this project are:
 > An important part of project planning is identifying tasks to be completed to address project goals and arranging those tasks in such a way that they can be completed within a (typically) fixed interval of time. In this class, that interval is the length of the semester. For milestone one, prepare an overall project timeline that identifies large tasks to be completed, estimates time of completion, and arranges those tasks chronologically over the project lifespan.  
 >You should create a gantt chart and identify major tasks that span the rest of the semester. I suggest using a gantt chart creation tool such as ganttpro - but you may feel free to create one in a tool of your choice (a simple table is fine). Once your chart is created, save it as an image file and display it in your README.md file, beneath your executive summary on your GitHub repo.
 
+The proposed timeline for this project is shown below.  Additionally, a more detailed view with estimated start and end dates is provided.
+
 ![Image of Project Timeline](resources/Capstone_Timeline.png)
+
+![Image of Detailed Project Dates](resources/Capstone_Timeline_Estimates.png)
+
 
 ## Risk List - Everyone put one in
 >As you will probably discover, there are many things that can go wrong when working on a project. Issues with skillsets, technology, team member availability, etc, may arise as the project goes forward. As we discussed in class, there are three options available to deal with project management risks: monitor it (Watch it), mitigate it (do something about it), accept it (give up). For milestone one, you should identify the major sources of risk and what you plan to do about them. Prepare a risk list and rank them by risk level using the standard formula, i.e. impact x likelihood, to describe the top 5 risks that might affect your team's ability to pull off the tasks identified in your timeline and dictated by your objectives.
