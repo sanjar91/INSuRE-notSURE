@@ -34,8 +34,10 @@ The proposed timeline for this project is shown below.  Additionally, a more det
 >Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA Methodology) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.  
 >Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.  
 > Submission Requirements
+
 Sanjar & Collin:
 > - Literature Review: For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important keywords, relevant research papers, and the state of the art in your area.
+
 Lyle:
 > - Technical Plan: Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.  Any data collection, testing/development methods, architectures, and data analysis techniques that you wish to use should all be included in your technical plan.
 
