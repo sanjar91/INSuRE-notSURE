@@ -32,7 +32,8 @@ The proposed timeline for this project is shown below.  Additionally, a more det
 |-------------------|------------|------------|-------------|
 |Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. |
 |Identified measurements are too effective (18) | 9 | 2 | One risk that could arise is that the current measurements for effectiveness are very effective leaving our work to be in vain. |
-|time restrictions (42) | 7 | 6 | One risk that could arise is running out of time to complete a task setting us back and endangering the completion of the project |
+|Time restrictions (42) | 7 | 6 | One risk that could arise is running out of time to complete a task setting us back and endangering the completion of the project |
+| Resource restrictions (48) | 8 | 6 | Having limited resources can affect the testing phase of new measurements techniques/tools, which could affect the final outcome of this project. |
 
 *This is Lisa's risk log-- please add to it
 The methodology cannot be applied to all systems in the domain
