@@ -26,8 +26,7 @@ The proposed timeline for this project is shown below.  Additionally, a more det
 
 ![Image of Detailed Project Dates](resources/Capstone_Timeline_Estimates.png)
 
-## Risk List - Everyone put one in
->As you will probably discover, there are many things that can go wrong when working on a project. Issues with skillsets, technology, team member availability, etc, may arise as the project goes forward. As we discussed in class, there are three options available to deal with project management risks: monitor it (Watch it), mitigate it (do something about it), accept it (give up). For milestone one, you should identify the major sources of risk and what you plan to do about them. Prepare a risk list and rank them by risk level using the standard formula, i.e. impact x likelihood, to describe the top 5 risks that might affect your team's ability to pull off the tasks identified in your timeline and dictated by your objectives.
+## Risk List
 
 |Risk name (value)  | Impact     | Likelihood | Description |
 |-------------------|------------|------------|-------------|
@@ -74,14 +73,13 @@ Figure 1
 
 While we did find some frameworks to measure the effectiveness of cybersecurity controls, nothing stood out as being the best form of measurement. We believe that there is a better way to measure the effectiveness of the controls and intend to create a new framework that helps reach this goal.
 
-### References
+#### References
 
 [2] Fowler, S. (2018, March 15). _Insider Threat Blog: Cybersecurity Performance 8 Indicators_. Retrieved from Cornegie Mellon University - Software Engineering Institute: https://insights.sei.cmu.edu/insider-threat/2018/03/cybersecurity-performance-8-indicators.html
 
 [1] Garvey, P., &amp; Patel, S. (2014). Analytical Frameworks to Assess the Effectiveness and Economic-Returns of Cybersecurity Investments. _IEEE Military Communications Conference._ Baltimore: IEEE.
 
-Lyle:
-> - Technical Plan: Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.  Any data collection, testing/development methods, architectures, and data analysis techniques that you wish to use should all be included in your technical plan.
+### Technical Plan:
 
 We plan on gathering as much data as possible on CSF measurement framework as possible. The primary frameworks we are planning to focus on are the four that were spoken of in the literary review, however with an emphasis on EMV model. Once we have gathered the data on each of these, we will analyze and compare the different frameworks and evaluate them. This will evaluation will be done on any data that is possible to collect but since organizations don’t give out this information, we will be doing qualitative measurements for this evaluation. The evaluation of the frameworks could lead to potential gaps that we plan to discover and formulate different possible solutions to these gaps. We plan on recommending our framework to the test organization. And based off of their evaluation, we would revise our framework. 
 
