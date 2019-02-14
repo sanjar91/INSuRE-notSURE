@@ -38,15 +38,10 @@ The proposed timeline for this project is shown below.  Additionally, a more det
 
 
 ## Project Methodology
->Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA Methodology) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.  
->Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.  
-> Submission Requirements
 
-### Literature Review: 
+### Literature Review:
 
-#### Measuring Cybersecurity Effectiveness
-
-#### A Critical Review of the Literature
+#### Measuring Cybersecurity Effectiveness: A Critical Review of the Literature
 
   In order to improve cybersecurity, it first must have a metric to be measured against. This literature review serves as a look into the current way cybersecurity effectiveness is measured. This review will not focus on the current ways cybersecurity effectiveness can be measured in its individual parts (e.g. Data Centers, Internal Networks, Endpoints, Users, Perimeter) but rather the effectiveness of the system as a whole. The review was successful in finding mentions of different metrics for analyzing the effectiveness of a cybersecurity system.
 
@@ -79,10 +74,9 @@ While we did find some frameworks to measure the effectiveness of cybersecurity 
 
 ### Technical Plan:
 
-The first step in our plan is to collect data and that data would be from open source sites, UNO databases, and perhaps from UNO and the test organization. And the data we are able to collect will determine the analysis technique we use on the data. The primary frameworks we are planning to focus on are the four that were spoken of in the literary review, however with an emphasis on EMV model.  Once we have gathered the data on each of these, we will analyze and compare the different frameworks and evaluate them. This will evaluation will be done on any collected data but since organizations don’t usually give out this information, the measurements that we will use if data is collected will be used to evaluate its own framework, since their will won’t be the same data set across all frameworks and could not easily compare the data sets. However, the data sets will be used to determine if a framework was successful or not. We will be doing mostly qualitative measurements for this evaluation. Where we compare different frameworks and depending on how they are set up and what implementations they have or do not have. The comparisons will of frameworks, will show us where some frameworks lack and where some go too far. The evaluation of the frameworks could lead to potential gaps that we plan to discover and formulate different possible solutions to these gaps. Once we have our framework set up, we will apply to two to three tools in the CSF and create report cards that show how effective each tool is. The resources used are our personal computers and campus computers and the test organization. 
+The first step in our plan is to collect data and that data would be from open source sites, UNO databases, and perhaps from UNO and the test organization. And the data we are able to collect will determine the analysis technique we use on the data. The primary frameworks we are planning to focus on are the four that were spoken of in the literary review, however with an emphasis on EMV model.  Once we have gathered the data on each of these, we will analyze and compare the different frameworks and evaluate them. This will evaluation will be done on any collected data but since organizations don’t usually give out this information, the measurements that we will use if data is collected will be used to evaluate its own framework, since their will won’t be the same data set across all frameworks and could not easily compare the data sets. However, the data sets will be used to determine if a framework was successful or not. We will be doing mostly qualitative measurements for this evaluation. Where we compare different frameworks and depending on how they are set up and what implementations they have or do not have. The comparisons will of frameworks, will show us where some frameworks lack and where some go too far. The evaluation of the frameworks could lead to potential gaps that we plan to discover and formulate different possible solutions to these gaps. Once we have our framework set up, we will apply to two to three tools in the CSF and create report cards that show how effective each tool is. The resources used are our personal computers and campus computers and the test organization.
 
 ## Requirements
-> Clearly identify the technologies and products involved in your project.  clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
