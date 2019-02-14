@@ -2,16 +2,14 @@
 
 ## Executive Summary - Lisa & Sarah
 
-> An executive summary should be evocative. It should capture a reader and make them want to be a part of your idea. In this milestone you will write an executive summary that defines the goals and objectives of your project in language that is easily readable and mental-image evoking. I (or anyone else) should be able to read your executive summary and instantly know a) what you are doing and b) why it is important. Executive summaries should be exciting and interesting. It is the first (and likely the only) chance for you to engage your reader and, in a real world setting, would determine if your product gets funded. An executive summary does not need technical detail to describe interesting functionality. You should mention your product by name without using phrases such as "the class", "the instructor", "project 2" etc.
-Should contain the following:
+Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls.  There are numerous frameworks that exist, including the Cybersecurity Framework from NIST.  However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  As a result, there is a great need for a standard set of metrics which can measure the effectiveness of security controls that have been implemented in a given environment/domain.
 
-@Lisa - the part I wrote below is what I wrote for the problem statement.  Feel free to edit as you see fit.  Want to take the second two parts?
+The goal of this project is:
+1) Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a security tool within the reference frame.  
+2) Determine the rating/metric scale to determine the effectiveness of the controls
+3) Determine if the rating/metric scale can be applied to the test organization
 
->- A problem statement identifying relevant issues related to your bid. The problem statement might also discuss why these issues are a problematic for society, a particular industry/sector/company/agency, or a specific technology(ies).  
->- Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
->- The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
-
-Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls.  There are numerous frameworks that exist, including the Cybersecurity Framework from NIST.  However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  As a result, there is a great need for a standard set of metrics which can measure the effectiveness of security controls that have been implemented in a given environment.
+If this project is successful, the metrics will be able to provide a report card of a security environment/domain.  The end goal would be to be used in an overall report card of a security program effectiveness if all tools could be evaluated with the same standards.  
 
 Team members that will be executing this project are:
 1. Lisa Bazis
@@ -35,6 +33,11 @@ The proposed timeline for this project is shown below.  Additionally, a more det
 |-------------------|------------|------------|-------------|
 |Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. |
 |Identified measurements are too effective (18) | 9 | 2 | One risk that could arise is that the current measurements for effectiveness are very effective leaving our work to be in vain. |
+
+*This is Lisa's risk log-- please add to it
+The methodology cannot be applied to all systems in the domain
+The metrics cannot be standardized across all domains
+
 
 ## Project Methodology
 >Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA Methodology) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.  
