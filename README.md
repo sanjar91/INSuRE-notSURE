@@ -1,6 +1,6 @@
 # Cybersecurity Measurement Science
 
-## Executive Summary - Lisa & Sarah
+## Executive Summary
 
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls.  There are numerous frameworks that exist, including the Cybersecurity Framework from NIST.  However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  As a result, there is a great need for a standard set of metrics which can measure the effectiveness of security controls that have been implemented in a given environment/domain.
 
@@ -45,12 +45,11 @@ The metrics cannot be standardized across all domains
 >Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.  
 > Submission Requirements
 
-Sanjar & Collin:
-> - Literature Review: For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important keywords, relevant research papers, and the state of the art in your area.
+### Literature Review: 
 
-Measuring Cybersecurity Effectiveness
+#### Measuring Cybersecurity Effectiveness
 
-A Critical Review of the Literature
+#### A Critical Review of the Literature
 
   In order to improve cybersecurity, it first must have a metric to be measured against. This literature review serves as a look into the current way cybersecurity effectiveness is measured. This review will not focus on the current ways cybersecurity effectiveness can be measured in its individual parts (e.g. Data Centers, Internal Networks, Endpoints, Users, Perimeter) but rather the effectiveness of the system as a whole. The review was successful in finding mentions of different metrics for analyzing the effectiveness of a cybersecurity system.
 
