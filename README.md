@@ -81,7 +81,7 @@ Furthermore, the authors explain the benefits of metrics and measures within an 
 
 [1] Garvey, P., &amp; Patel, S. (2014). Analytical Frameworks to Assess the Effectiveness and Economic-Returns of Cybersecurity Investments. _IEEE Military Communications Conference._ Baltimore: IEEE.
 
-[3] Black, Paul E, et al. “Cyber Security Metrics and Measures.” NIST, NIST, ws680.nist.gov/publication/get_pdf.cfm?pub_id=51292.
+[3] Black, Paul E, et al. “Cyber Security Metrics and Measures.” NIST, NIST, https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=51292. 
 
 ### Technical Plan:
 
