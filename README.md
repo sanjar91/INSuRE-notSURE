@@ -68,11 +68,11 @@ While we did find some frameworks to measure the effectiveness of cybersecurity 
 
 #### Cyber Security Metrics and Measures
 
-In 2008, Paul E. Black, Karen Scarfone, and Murugiah Souppaya from NIST published a paper on Cyber Security Metrics and Measures. In this paper the authors discuss the contrast between Metrics and Measures, selecting measures to support metrics, problems regarding selection, accuracy, and use of measures, and the Common Vulnerability Scoring System (CVSS). 
+In 2008, Paul E. Black, Karen Scarfone, and Murugiah Souppaya from NIST published a paper on Cyber Security Metrics and Measures. In this paper the authors discuss the contrast between Metrics and Measures, selecting measures to support metrics, problems regarding selection, accuracy, and use of measures, and the Common Vulnerability Scoring System (CVSS) [3]. 
 
-The authors describe metric as “measurement of performance”, and measure as “a concrete, objective, or attribute.” After identifying its metrics, an organization then determines what measures can be collected to support the identified metrics. A main problem with accuracy of measures is the dependency of metric accuracy on measure accuracy; measures are often defined imprecisely, which causes the problem. There are many tools used for measurement which can problems with selection of measures within an organization. The CVSS is comprised of three sets of measures, (i) base measures, (ii) temporal measures, and (iii) environmental measures. 
+The authors describe metric as “measurement of performance”, and measure as “a concrete, objective, or attribute.” After identifying its metrics, an organization then determines what measures can be collected to support the identified metrics. A main problem with accuracy of measures is the dependency of metric accuracy on measure accuracy; measures are often defined imprecisely, which causes the problem. There are many tools used for measurement which can problems with selection of measures within an organization. The CVSS is comprised of three sets of measures, (i) base measures, (ii) temporal measures, and (iii) environmental measures [3]. 
 
-Furthermore, the authors explain the benefits of metrics and measures within an organization. Using metrics and measures can verify that an organization’s security controls are in compliance with required policies or procedures, reveal their strengths and weaknesses, and identify security trends which can help an organization monitor its security performance using the past trends. These benefits can help an organization improve performance of its security controls, and answer sophisticated questions regarding its security which helps with strategic decision making. 
+Furthermore, the authors explain the benefits of metrics and measures within an organization. Using metrics and measures can verify that an organization’s security controls are in compliance with required policies or procedures, reveal their strengths and weaknesses, and identify security trends which can help an organization monitor its security performance using the past trends. These benefits can help an organization improve performance of its security controls, and answer sophisticated questions regarding its security which helps with strategic decision making [3]. 
 
 
 #### References
@@ -80,6 +80,8 @@ Furthermore, the authors explain the benefits of metrics and measures within an 
 [2] Fowler, S. (2018, March 15). _Insider Threat Blog: Cybersecurity Performance 8 Indicators_. Retrieved from Cornegie Mellon University - Software Engineering Institute: https://insights.sei.cmu.edu/insider-threat/2018/03/cybersecurity-performance-8-indicators.html
 
 [1] Garvey, P., &amp; Patel, S. (2014). Analytical Frameworks to Assess the Effectiveness and Economic-Returns of Cybersecurity Investments. _IEEE Military Communications Conference._ Baltimore: IEEE.
+
+[3] Black, Paul E, et al. “Cyber Security Metrics and Measures.” NIST, NIST, ws680.nist.gov/publication/get_pdf.cfm?pub_id=51292.
 
 ### Technical Plan:
 
