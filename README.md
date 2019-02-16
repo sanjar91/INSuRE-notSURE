@@ -5,11 +5,11 @@
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls.  There are numerous frameworks that exist, including the Cybersecurity Framework from NIST.  However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  As a result, there is a great need for a standard set of metrics which can measure the effectiveness of security controls that have been implemented in a given environment/domain.
 
 The goal of this project is:
-1) Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a security tool within the reference frame.  
-2) Determine the rating/metric scale to determine the effectiveness of the controls
-3) Determine if the rating/metric scale can be applied to the test organization
+1) Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a various security tools within the reference frame.  
+2) Determine a rating/metric scale to measure the effectiveness of the controls
+3) Determine how effectively the rating/metric scale can be applied to the test organization
 
-If this project is successful, the metrics will be able to provide a report card of a security environment/domain.  The end goal would be to be used in an overall report card of a security program effectiveness if all tools could be evaluated with the same standards.  
+If this project is successful, the metrics will be able to provide a report card of a security environment or domain.  The end goal would be used in an overall report card of a security program effectiveness if all tools could be evaluated with the same standards.  
 
 Team members that will be executing this project are:
 1. Lisa Bazis
