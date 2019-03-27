@@ -10,8 +10,10 @@ To date, we have achieved the following major outcomes in relation to our projec
 * Used the inter-rater reliability function and a consensus-based approach to identify the specific vulnerabilities which are considered measurable for each identified technology
 * Identified measurements for first draft of measurement survey
 
+#### Project Overview
+Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the Cybersecurity Framework from NIST. However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  The inability to measure the effectiveness of cybersecurity controls has a large potential impact on organizations.  It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
 
-
+Developing a strong and comprehensive approach to measuring implemented security technologies and their corresponding security controls has the potential to greatly impact security organizations and ensure their resources are used as effectively as possible.  The goal of this project is to develop a repeatable process that, when followed, produces a prototype of a measurement framework for specific technology domains that leads to a strong and comprehensive method of measuring the effectiveness of the evaluated technologies and their associated controls.  This prototype will be in the form of a survey, which an individual can fill out in regards to the technology that is being evaluated and will output a measurement indicating how effective the control is.
 
 ## Hinderances
 > (insert brief discussion of challenges encountered)
