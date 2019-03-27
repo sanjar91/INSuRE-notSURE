@@ -15,6 +15,10 @@ Cybersecurity departments across the United States all face a common problem: th
 
 Developing a strong and comprehensive approach to measuring implemented security technologies and their corresponding security controls has the potential to greatly impact security organizations and ensure their resources are used as effectively as possible.  The goal of this project is to develop a repeatable process that, when followed, produces a prototype of a measurement framework for specific technology domains that leads to a strong and comprehensive method of measuring the effectiveness of the evaluated technologies and their associated controls.  This prototype will be in the form of a survey, which an individual can fill out in regards to the technology that is being evaluated and will output a measurement indicating how effective the control is.
 
+#### Control Selection Methodology and Outcomes
+
+#### Survey Methodology and Outcomes
+
 ## Hinderances
 > (insert brief discussion of challenges encountered)
 
