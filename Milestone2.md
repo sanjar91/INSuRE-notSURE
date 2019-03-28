@@ -42,6 +42,14 @@ With the three classes of technology defined, the team moved on to evaluating th
 
 #### Control Selection Methodology and Outcomes
 
+The team categorized the CSF in to three control types; Administrative, Operational, Technical. **Administrative** are controls related to an organization’s policy, procedures, and/or written instructions. **Technical** are controls that can be executed using a technology, and technical controls are measureable. **Operational** controls are the processes carried out with a technology by following administrative controls. Here is an example to simplify this; Let’s say an organization has rules regarding how long to store data and when to destroy it. This can be categorized in Administrative, Technical, and Operational controls.
+
+* **Administrative:** *The written policy on how long to keep and when to destroy the data.*
+* **Technical:**  *Technology actually keeping and/or destroying data.*
+* **Operational:** *The process of destroying data according to policy and using technology.*
+
+
+##### Inter-rater Reliability
 
 Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” (Portland Community College)
 The generally accepted level of agreement is 75% for a minimal agreement with 90% or higher being a high agreement. The issue we encountered was that if just one of our members disagrees with the rest of the group, our IRR score becomes 60% which would mean that the only way we could use any of the controls, it would have to be a unanimous yes vote. This is an issue with using the percent-based statistic. Absolute agreement is unforgiving and with how our rating system was created, a yes/no rating, it is not viable to use adjacent ratings of agreement. Even if adjacent ratings were used, that could lead to meaningless reliability estimates. We will continue to look into ways to better use inter-rater reliability.
