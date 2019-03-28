@@ -52,8 +52,11 @@ With the three classes of technology defined, the team moved on to evaluating th
 
 ## References
 [1]: NIST Cybersecurity Framework (https://www.nist.gov/cyberframework)
+
 [2]: Cao, Y., & Yang, L. (2010, December). A survey of identity management technology. In 2010 IEEE International Conference on Information Theory and Information Security (pp. 287-293). IEEE.
+
 [3]: Malecki, F. (2012). Next-generation firewalls: Security with performance. Network Security, 2012(12), 19-20.
+
 [4]: Gartner Endpoint Detection and Response Solutions (https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions)
 
 
