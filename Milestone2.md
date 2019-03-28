@@ -82,12 +82,12 @@ Level 3 - Quantitatively Managed - Fully Implemented</br>
 Level 4 - Optimizing - Achieved</br> 
 
 ##### Scoring Tool
-The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form.
+The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.PNG">
 </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spidergraph.PNG">
 </br>
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/linegraph.PNG>
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/linegraph.PNG">
 </br>
  
  
