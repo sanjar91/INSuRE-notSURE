@@ -68,10 +68,10 @@ Each domain is surveyed/scored based upon controls that are applicable to that d
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
 
 ##### Perimeter 
-(insert diagram of controls) 
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/PerimeterControls.png">
 
 ##### EDR
-(insert diagram of controls)
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 ##### Maturity Model
 The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br> 
@@ -83,8 +83,14 @@ Level 4 - Optimizing - Achieved</br>
 
 ##### Scoring Tool
 The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form.
-(insert the graphs)
-
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.PNG">
+</br>
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spidergraph.PNG">
+</br>
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/linegraph.PNG>
+</br>
+ 
+ 
 ## Hinderances
 The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain are subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.
 
