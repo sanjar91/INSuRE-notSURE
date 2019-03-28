@@ -51,34 +51,35 @@ Some controls were vague in their description which made reaching a level of agr
 
 
 
-#### Survey Methodology and Outcomes
+#### Survey Methodology and Outcomes  
 
-## Hinderances
-The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain are subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.  
-
-## Survey/Scoring 
+##### Survey/Scoring 
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are dispalyed below:
 
-# Identity Management
+##### Identity Management
 (insert diagram of controls)
 
-# Perimeter 
+##### Perimeter 
 (insert diagram of controls) 
 
-# EDR
+##### EDR
 (insert diagram of controls)
 
-# Maturity Model
-The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories.  
-Level 0 - Ad-hoc or Not Implemented
-Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented
-Level 2- Defined - Largely Implemented
-Level 3 - Quantitatively Managed - Fully Implemented
-Level 4 - Optimizing - Achieved
+##### Maturity Model
+The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br> 
+Level 0 - Ad-hoc or Not Implemented</br> 
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br> 
+Level 2- Defined - Largely Implemented</br> 
+Level 3 - Quantitatively Managed - Fully Implemented</br> 
+Level 4 - Optimizing - Achieved</br> 
 
-# Scoring Tool
+##### Scoring Tool
 The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form.
 (insert the graphs)
+
+## Hinderances
+The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain are subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.
+
 ## Ongoing Risks
 > (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
 
