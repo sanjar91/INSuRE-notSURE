@@ -1,0 +1,26 @@
+Project Overview 
+	We have evaluated three domains (perimeter, EDR, Identity Management Systems) against the NIST 
+  CSF controls and have created smaller and more specific control for each domain. We choose these 
+  three domains because of the significant difference from each other. This process shows that 
+  the process can be reused for other domains and is flexible in its implementation. 
+  We used inter-rater reliability to see which controls should be used for each domain 
+  and consensus-based approach for any items that didn't meet the IRR threshold. The 
+  Narrowing of the controls allows for more meaningful questions to be asked in the survey 
+  and gives a more accurate security maturity model based off of the questions.
+	The NIST CSF has five groupings for the control (Identify, Protect, Detect, Respond, Recover).
+
+
+
+Project Risks
+  Resource restrictions 
+  Time restrictions 
+  The methodology is not universal 
+  Identified measurements are not effective
+  Identified measurements are too effective 
+  Survey questions are bias 
+  Survey questions are ambiguous  	
+
+Project Hinderances 
+  Deciding on controls that are needed 
+  Deciding on benchmarks for tools
+
