@@ -65,7 +65,7 @@ Some controls were vague in their description which made reaching a level of agr
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are dispalyed below:
 
 ##### Identity Management
-(insert diagram of controls)
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
 
 ##### Perimeter 
 (insert diagram of controls) 
