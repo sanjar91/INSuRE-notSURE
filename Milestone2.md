@@ -48,8 +48,10 @@ The team categorized the CSF in to three control types; Administrative, Operatio
 * **Technical:**  *Technology actually keeping and/or destroying data.*
 * **Operational:** *The process of destroying data according to policy and using technology.*
 
+After going through all the components within CSF as a team we had decided that most of technical and some operational controls are actually measureable. On the other hand, administrative controls are not measureable since they are written policies and procedures. Our team reviewed all the controls in the CSF for all three domains (User Management, Perimeter Defense, Endpoint Technology) individually, and marked the controls “*YES*” if they are measureable or “*NO*” if they are not. Afterwards, we compared our results and used the Inter-Rater Reliability technique to measure the degree of agreement between us.
 
-##### Inter-rater Reliability
+
+#### Inter-rater Reliability
 
 Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” (Portland Community College)
 The generally accepted level of agreement is 75% for a minimal agreement with 90% or higher being a high agreement. The issue we encountered was that if just one of our members disagrees with the rest of the group, our IRR score becomes 60% which would mean that the only way we could use any of the controls, it would have to be a unanimous yes vote. This is an issue with using the percent-based statistic. Absolute agreement is unforgiving and with how our rating system was created, a yes/no rating, it is not viable to use adjacent ratings of agreement. Even if adjacent ratings were used, that could lead to meaningless reliability estimates. We will continue to look into ways to better use inter-rater reliability.
