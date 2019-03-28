@@ -28,11 +28,13 @@ When evaluating for the sake of this project, we chose to focus on the middle la
 For this project, we evaluated three unique technology domains and selected a single technology class within each domain to use in our prototype development.  In developing our prototype, we focused on the capabilities of technologies in that class in general instead of on the capabilities of specific tools.
 
 For this project, we chose to evaluate technology classes in the following technology domains.  Each of these domains are considered a building block in a successful security program while also being distinctly different from each other.  They were chosen because of their uniqueness and lack of overlap with each other.  Below we dive into more detail about each domain and the specific class of technology that is evaluated within each domain.
-* Identity Management
+* User Management
 * Perimeter Defenses
 * Endpoint Detection and Response
 
+The user management technology domain is a broad umbrella of technologies that manage the entire lifecycle of a user, from the time the user is onboarded and their account is created to time the user is offboarded and the account is destroyed and access is removed.  For the sake of this project, we decided to focus specifically on Identity Management software within the user management domain.  Identity Mangement (IDM) software, also known as Identity and Access Management (IAM) software, is a technology that is put in place to manage people's digital identities.  This can include "verification of entity authenticity, authorization of access control, secure transfer of identity attributes, lifecycle management of identity, administration of work flow while exchanging identity and federation of identity between different domains and dynamic trust delegations" [2].  Examples of IDM tools include Microsoft Active Directory and Oracle Identity Management.  IDM tools are essential to running a strong security program as it ensures that all actions performed in an environment can be traced back to a user.  For this reason, it was included in the scope of our project.
 
+The perimeter defenses technology domain is a group of technologies that sit on the edge of an enterprise network and examine and protect all incoming and outgoing traffic.  These tools can listen in on traffic, route traffic, and examine and block potentially malicious traffic to name a few. For this project we chose to examine next-generation firewalls (NGFW's) specifically.  At its core, a next-generation firewall is a more advanced firewall that goes beyond filtering just on ports and IP addresses.  Instead, it "applies [deep packet inspection] (DPI) firewall technology by integrating Intrusion Prevention Systems (IPS), and application intelligence and control to visualize the content of the data being accessed and processed" [3].  DPI technology allows examining the contents of a packet instead of just what port it is sent to or from in order to determine if the packet is malicious or not.  Examples of such technology include Palo Alto's NGFW or Cisco's NGFW.  Having a strong firewall that allows DPI is often the first line of defense for most companies.  Thus, it was chosen as part of the scope for this project. 
 
 #### Control Selection Methodology and Outcomes
 
@@ -46,6 +48,9 @@ For this project, we chose to evaluate technology classes in the following techn
 
 ## References
 [1]: NIST Cybersecurity Framework (https://www.nist.gov/cyberframework)
+[2]: Cao, Y., & Yang, L. (2010, December). A survey of identity management technology. In 2010 IEEE International Conference on Information Theory and Information Security (pp. 287-293). IEEE.
+[3]: Malecki, F. (2012). Next-generation firewalls: Security with performance. Network Security, 2012(12), 19-20.
+
 
 
 # Project realization
