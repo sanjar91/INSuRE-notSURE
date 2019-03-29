@@ -104,6 +104,10 @@ The challenge of this methodology is that the controls that were chosen to be us
 |Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. |
 |Identified measurements are too effective (18) | 9 | 2 | One risk that could arise is that the current measurements for effectiveness are very effective leaving our work to be in vain. |
 | The methodology is not universal (10) | 5 | 2 | It is possible that the identified methodology cannot be applied evenly to all systems in the evaluated domain.  This has the potential to skew certain aspects of the methodology.|
+| Survey questions are ambiguous (24) | 6 | 4 | This will not allow for proper answering of the questions due to misunderstanding of the question. This will cause the results to be inaccurate and that will cause the maturity model comparison to be poor. |
+| Survey questions are bias (30) | 6 | 5 | Having bias in the questions can lead to improper answering of questions which will skew the results. Which will end up ruining the maturity model comparison. |
+|Wrong controls were choosen (21) | 7 | 3 | Using IRR and consensus-based approach for choosing there is a chance we left out needed control or left in an unneeded control|
+
 
 ## References
 [1]: NIST Cybersecurity Framework (https://www.nist.gov/cyberframework)
