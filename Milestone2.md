@@ -81,6 +81,7 @@ To calculate the IRR, the result provided by each person is compared to the resu
 | Collin & Lyle | Yes | Yes | 1 |
 | Collin & Sanjar | Yes | Yes | 1 |
 | Lyle & Sanjar | Yes | Yes | 1 |
+|**Total** | | | **6** |
 
 The final step of calculating the inter-rater reliability is to add up the number of pairs that agree and divide by the total number of pairs evaluated to give the percent agreement.  In this case, 4 out of 10 pairs agreed, which gives us a 40% agreement on this control.  This process was performed for each control in the CSF framework in each of the three technology domains.
 
