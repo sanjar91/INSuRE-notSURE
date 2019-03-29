@@ -100,13 +100,13 @@ The outcome of the IRR and consensus approaches provided us with a subset of the
 ##### Endpoint Detection and Response
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
-#### Scoring Methodology and Outcomes  
+### Scoring Methodology and Outcomes  
 
 Scoring rules measures the accuracy of subjectvie assessment/probabilistic predictions. A score in cybersecurity can be thought of as either a measure of the "calibration" of a set of subjective assessment/probabilistic predictions, or as a "cost function" or "loss function".  For the purposes of this project, we chose to subjective assessment/probablilistic predictions of the maturity model.  Each score, while subjective, is based upon a concrete definition of a scale.  
 
 Each domain is surveyed/scored based upon controls that are applicable to that domain as shown in the IRR section above.  The controls are grouped into categories based upon the NIST CSF.  Then the controls are averaged based upon category and scored on the tool. 
 
-##### Scoring Tool
+#### Scoring Tool
 The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. We still need to define what it is compared against as choosing the best in class will be difficult and not all tools will have a full maturity score, especially for new and emerging technologies.  As the products mature, the maturity baseline should increase.  </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.PNG">
 </br>
@@ -125,13 +125,13 @@ Introducing the IRR approach did introduce it's own challenges.  As discussed ab
 |Risk name (value)  | Impact     | Likelihood | Description | Status      | Update      |
 |-------------------|------------|------------|-------------|-------------|-------------|
 | Resource restrictions (21) | 7 | 3 | Having limited resources can affect the testing phase of new measurements techniques/tools, which could affect the final outcome of this project. | Open | Given that we are halfway through the semester, the likelihood of this happening has decreased. |
-|Time restrictions (21) | 7 | 3 | One risk that could arise is running out of time to complete a task setting us back and endangering the completion of the project | Open | The team has successfully met each deadline and is on track to met future deadlines. |
-|Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. | Open | No significant change |
+|Time restrictions (21) | 7 | 3 | One risk that could arise is running out of time to complete a task setting us back and endangering the completion of the project. | Open | The team has successfully met each deadline and is on track to met future deadlines. |
+|Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. | Open | No significant change. |
 |Identified measurements are too effective (18) | 9 | 2 | One risk that could arise is that the current measurements for effectiveness are very effective leaving our work to be in vain. | Open | No significant change. |
 | The methodology is not universal (25) | 5 | 5 | It is possible that the identified methodology cannot be applied evenly to all systems in the evaluated domain.  This has the potential to skew certain aspects of the methodology.| Open | In the process of evaluating control, we learned that many of them were vague and allowed for subjective assessment. |
 | Scoring form questions are ambiguous (24) | 6 | 4 | This will not allow for proper answering of the questions due to misunderstanding of the question. This will cause the results to be inaccurate and that will cause the maturity model comparison to be poor. | Open | Newly added. |
 | Scoring form questions are biased (30) | 6 | 5 | Having bias in the questions can lead to improper answering of questions which will skew the results. Which will end up ruining the maturity model comparison. | Open | Newly added. |
-| Wrong controls were choosen (21) | 7 | 3 | Using IRR and consensus-based approach for choosing there is a chance we left out needed control or left in an unneeded control| Open | Newly added. |
+| Wrong controls were choosen (21) | 7 | 3 | Using IRR and consensus-based approach for choosing there is a chance we left out needed control or left in an unneeded control. | Open | Newly added. |
 
 
 ## References
