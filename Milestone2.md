@@ -53,7 +53,7 @@ After going through all the components within CSF as a team we had decided that 
 
 #### Inter-rater Reliability
 
-Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” (Portland Community College)
+Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” [5].
 The generally accepted level of agreement is 75% for a minimal agreement with 90% or higher being a high agreement. The issue we encountered was that if just one of our members disagrees with the rest of the group, our IRR score becomes 60% which would mean that the only way we could use any of the controls, it would have to be a unanimous yes vote. This is an issue with using the percent-based statistic. Absolute agreement is unforgiving and with how our rating system was created, a yes/no rating, it is not viable to use adjacent ratings of agreement. Even if adjacent ratings were used, that could lead to meaningless reliability estimates. We will continue to look into ways to better use inter-rater reliability.
 
 If we change the minimal level of agreement to 60%, we are able to form conclusions on if the controls are considered relevant and final. If the controls reached 60% (if 4 of the 5 members voted similarly), the control was accepted as either relevant or not relevant. The same result occurred if the vote was unanimous. If the level of agreement did not reach 60%, we used the consensus approach. *How should we talk about our consensus approach*
@@ -117,6 +117,8 @@ The challenge of this methodology is that the controls that were chosen to be us
 [3]: Malecki, F. (2012). Next-generation firewalls: Security with performance. Network Security, 2012(12), 19-20.
 
 [4]: Gartner Endpoint Detection and Response Solutions (https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions)
+
+[5]: Portland Community College. Inter-rater Reliability: Challenges affecting LAC assessment projects. (https://www.pcc.edu/resources/academic/learning-assessment/documents/LACMtg2InterRater_Reliability.pdf)
 
 
 
