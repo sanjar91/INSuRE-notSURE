@@ -70,9 +70,8 @@ The outcome of the IRR and consensus approaches provided us with a subset of the
 ##### Endpoint Detection and Response
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
-#### Survey Methodology and Outcomes  
+#### Scoring Methodology and Outcomes  
 
-##### Survey/Scoring
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are dispalyed below:
 
 
