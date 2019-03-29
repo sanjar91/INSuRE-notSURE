@@ -1,6 +1,6 @@
 # Progress Report (March 28, 2019)
 ## Overview
-We have evaluated three domains (perimeter, Endpoint Technology, Identity Management) against the NIST CSF controls and have created smaller and more specific control for each domain. We choose these three domains because of the significant difference from each other. This process shows that the process can be reused for other domains and is flexible in its implementation. We used inter-rater reliability to see which controls should be used for each domain and consensus-based approach for any items that didn't meet the IRR threshold. We have planned measurements for the first draft of measurement questionnaire for each selected control. 
+We have evaluated three domains (perimeter, Endpoint Technology, Identity Management) against the NIST CSF controls and have created smaller and more specific control for each domain. We choose these three domains because of the significant difference from each other. This process shows that the process can be reused for other domains and is flexible in its implementation. We used inter-rater reliability to see which controls should be used for each domain and consensus-based approach for any items that didn't meet the IRR threshold. We have planned measurements for the first draft of measurement questionnaire for each selected control.
 
 ## Outcomes
 
@@ -63,25 +63,25 @@ Some controls were vague in their description which made reaching a level of agr
 
 #### Survey Methodology and Outcomes  
 
-##### Survey/Scoring 
+##### Survey/Scoring
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are dispalyed below:
 
 ##### Identity Management
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
 
-##### Perimeter 
+##### Perimeter
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/PerimeterControls.png">
 
 ##### EDR
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 ##### Maturity Model
-The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br> 
-Level 0 - Ad-hoc or Not Implemented</br> 
-Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br> 
-Level 2- Defined - Largely Implemented</br> 
-Level 3 - Quantitatively Managed - Fully Implemented</br> 
-Level 4 - Optimizing - Achieved</br> 
+The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br>
+Level 0 - Ad-hoc or Not Implemented</br>
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
+Level 2- Defined - Largely Implemented</br>
+Level 3 - Quantitatively Managed - Fully Implemented</br>
+Level 4 - Optimizing - Achieved</br>
 
 ##### Scoring Tool
 The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. </br>
@@ -91,13 +91,19 @@ The tool averages each of categories and compares it to a baseline or another se
 </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/linegraph.PNG">
 </br>
- 
- 
+
+
 ## Hinderances
 The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain are subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.
 
 ## Ongoing Risks
-> (address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
+|Risk name (value)  | Impact     | Likelihood | Description |
+|-------------------|------------|------------|-------------|
+| Resource restrictions (48) | 8 | 6 | Having limited resources can affect the testing phase of new measurements techniques/tools, which could affect the final outcome of this project. |
+|Time restrictions (42) | 7 | 6 | One risk that could arise is running out of time to complete a task setting us back and endangering the completion of the project |
+|Identified measurements are not effective (32) | 8 | 4 | One risk that affects us is that the metrics that we identify for measuring the effectiveness of a cybersecurity program could be ineffective. |
+|Identified measurements are too effective (18) | 9 | 2 | One risk that could arise is that the current measurements for effectiveness are very effective leaving our work to be in vain. |
+| The methodology is not universal (10) | 5 | 2 | It is possible that the identified methodology cannot be applied evenly to all systems in the evaluated domain.  This has the potential to skew certain aspects of the methodology.|
 
 ## References
 [1]: NIST Cybersecurity Framework (https://www.nist.gov/cyberframework)
