@@ -102,11 +102,12 @@ The outcome of the IRR and consensus approaches provided us with a subset of the
 
 #### Scoring Methodology and Outcomes  
 
-Scoring rules measures the accuracy of probabilistic predictions. A score can be thought of as either a measure of the "calibration" of a set of probabilistic predictions, or as a "cost function" or "loss function".  For the purposes of 
-Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are displayed below:
+Scoring rules measures the accuracy of subjectvie assessment/probabilistic predictions. A score in cybersecurity can be thought of as either a measure of the "calibration" of a set of subjective assessment/probabilistic predictions, or as a "cost function" or "loss function".  For the purposes of this project, we chose to subjective assessment/probablilistic predictions of the maturity model.  Each score, while subjective, is based upon a concrete definition of a scale.  
+
+Each domain is surveyed/scored based upon controls that are applicable to that domain as shown in the IRR section above.  The controls are grouped into categories based upon the NIST CSF.  Then the controls are averaged based upon category and scored on the tool. 
 
 ##### Scoring Tool
-The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. </br>
+The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. We still need to define what it is compared against as choosing the best in class will be difficult and not all tools will have a full maturity score, especially for new and emerging technologies.  As the products mature, the maturity baseline should increase.  </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.PNG">
 </br>
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spidergraph.PNG">
