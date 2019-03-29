@@ -8,7 +8,7 @@ To date, we have achieved the following major outcomes in relation to our projec
 * Identified the technologies which are being used in the evaluation described below
 * Completed initial evaluation of the NIST Cybersecurity Framework (CSF) against the identified technologies
 * Used the inter-rater reliability function and a consensus-based approach to identify the specific vulnerabilities which are considered measurable for each identified technology
-* Identified measurements for first draft of measurement survey
+* Identified measurements for first draft of measurement scoring form
 
 #### Project Overview
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the Cybersecurity Framework from NIST. However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls.  The inability to measure the effectiveness of cybersecurity controls has a large potential impact on organizations.  It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
