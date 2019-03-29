@@ -42,6 +42,14 @@ With the three classes of technology defined, the team moved on to evaluating th
 
 #### Control Selection Methodology and Outcomes
 
+##### Maturity Model
+The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br>
+Level 0 - Ad-hoc or Not Implemented</br>
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
+Level 2- Defined - Largely Implemented</br>
+Level 3 - Quantitatively Managed - Fully Implemented</br>
+Level 4 - Optimizing - Achieved</br>
+
 The team categorized the CSF in to three control types; Administrative, Operational, Technical. **Administrative** are controls related to an organization’s policy, procedures, and/or written instructions. **Technical** are controls that can be executed using a technology, and technical controls are measureable. **Operational** controls are the processes carried out with a technology by following administrative controls. Here is an example to simplify this; Let’s say an organization has rules regarding how long to store data and when to destroy it. This can be categorized in Administrative, Technical, and Operational controls.
 
 * **Administrative:** *The written policy on how long to keep and when to destroy the data.*
@@ -53,33 +61,10 @@ After going through all the components within CSF as a team we had decided that 
 
 #### Inter-rater Reliability
 
-We use to use the Inter-Rater Reliability (IRR) measurement as a way to narrow down the number of controls for each domain.  Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” [5].  It compares the answer each person provides to a given rating against every other person that rated that control.  Then it calculates a percentage of overall agreement based on how many pairs agreed.  For instance, in our case, five people were measuring each control.  For each control, they chose an answer of "Yes, the control is applicable and measurable in this domain" or "No, the control is either not applicable or not measurable in this domain".  An exmaple of such a scenario is shown below.
+Inter-rater Reliability is “*a numerical estimate/measure of the degree of agreement among raters*” [5].
+The generally accepted level of agreement is 75% for a minimal agreement with 90% or higher being a high agreement. The issue we encountered was that if just one of our members disagrees with the rest of the group, our IRR score becomes 60% which would mean that the only way we could use any of the controls, it would have to be a unanimous yes vote. This is an issue with using the percent-based statistic. Absolute agreement is unforgiving and with how our rating system was created, a yes/no rating, it is not viable to use adjacent ratings of agreement. Even if adjacent ratings were used, that could lead to meaningless reliability estimates. We will continue to look into ways to better use inter-rater reliability.
 
-| Control | Sarah | Lisa | Collin | Lyle | Sanjar |
-|---------|-------|------|--------|------|--------|
-| ID.AM-1: Physical devices and systems within the organization are inventoried | No | No | Yes | Yes | Yes |
-
-To calculate the IRR, the result provided by each person is compared to the result provided by every other person to see how each pair agrees.  To continue the example above, the pair-wise comparison is shown in the table below.
-
-| Pair | Answer 1 | Answer 2 | Agreement |
-|------|----------|----------|-----------|
-| Sarah & Lisa | No | No | 1 |
-| Sarah & Collin | No | Yes | 0 |
-| Sarah & Lyle | No | Yes | 0 |
-| Sarah & Sanjar | No | Yes | 0 |
-| Lisa & Collin | No | Yes | 0 |
-| Lisa & Lyle | No | Yes | 0 |
-| Lisa & Sanjar | No | Yes | 0 |
-| Collin & Lyle | Yes | Yes | 1 |
-| Collin & Sanjar | Yes | Yes | 1 |
-| Lyle & Sanjar | Yes | Yes | 1 |
-
-The final step of calculating the inter-rater reliability is to add up the number of pairs that agree and divide by the total number of pairs evaluated to give the percent agreement.  In this case, 4 out of 10 pairs agreed, which gives us a 40% agreement on this control.  This process was performed for each control in the CSF framework in each of the three technology domains.
-
-The generally accepted level of agreement is 75% for a minimal agreement with 90% or higher being a high agreement. That is, if the level of agreement is over 75% then the group has agreed upon a specific answer.  The issue we encountered was that if just one of our members disagrees with the rest of the group, that gives us 6 out 10 pairs in agreement and our IRR score becomes 60%.  This would mean that in order for us reach agreement on whether any of the controls are applicable and measurable, it would have to be a unanimous yes vote. This is an issue with using the percent-based statistic. Absolute agreement is unforgiving and with how our rating system was created, a yes/no rating, it is not viable to use adjacent ratings of agreement simply by themselves. Even if adjacent ratings were used, that could lead to meaningless reliability estimates if we simply threw out all controls that had less than a 75% agreement rate.
-
-If we change the minimal level of agreement to 60%, we are able to form conclusions on if the controls are considered relevant and final. If the controls reached 60% (that is, if 4 of the 5 members voted similarly), the control was accepted as either relevant or not relevant. The same result occurred if the vote was unanimous. If the level of agreement did not reach 60%, we used the consensus approach. *How should we talk about our consensus approach*
-Some controls were vague in their description which made reaching a level of agreement difficult. To combat this, some controls had their definitions tweaked to a group agreed upon definition which allowed us to rate comfortably.
+If we change the minimal level of agreement to 60%, we are able to form conclusions on if the controls are considered relevant and final. If the controls reached 60% (if 4 of the 5 members voted similarly), the control was accepted as either relevant or not relevant. The same result occurred if the vote was unanimous. If the level of agreement did not reach 60%, we used the consensus approach. Using this approach, we evaluated the scores that did not reach the minimal level of agreement and discussed our thought process and concerns about the unused controls to see if everyone had the same ideas of what the definitions of the unused controls were. Some controls were vague in their description which made reaching a level of agreement difficult. To combat this, some controls had their definitions tweaked to a group agreed upon definition which allowed us to rate comfortably.
 
 The outcome of the IRR and consensus approaches provided us with a subset of the overall controls for each of the three classes of technology that we are evaluating.  The control subsets for each are shown below.
 
@@ -95,15 +80,6 @@ The outcome of the IRR and consensus approaches provided us with a subset of the
 #### Scoring Methodology and Outcomes  
 
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are displayed below:
-
-
-##### Maturity Model
-The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br>
-Level 0 - Ad-hoc or Not Implemented</br>
-Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
-Level 2- Defined - Largely Implemented</br>
-Level 3 - Quantitatively Managed - Fully Implemented</br>
-Level 4 - Optimizing - Achieved</br>
 
 ##### Scoring Tool
 The tool averages each of categories and compares it to a baseline or another security tool and represents the data in graph form. </br>
