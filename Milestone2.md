@@ -102,6 +102,7 @@ The outcome of the IRR and consensus approaches provided us with a subset of the
 
 #### Scoring Methodology and Outcomes  
 
+Scoring rules measures the accuracy of probabilistic predictions. A score can be thought of as either a measure of the "calibration" of a set of probabilistic predictions, or as a "cost function" or "loss function".  For the purposes of 
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are displayed below:
 
 ##### Scoring Tool
