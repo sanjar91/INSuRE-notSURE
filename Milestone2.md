@@ -1,6 +1,6 @@
 # Progress Report (March 28, 2019)
 ## Overview
-We have evaluated three domains (perimeter, Endpoint Technology, Identity Management) against the NIST CSF controls and have created smaller and more specific control for each domain. We choose these three domains because of the significant difference from each other. This process shows that the process can be reused for other domains and is flexible in its implementation. We used inter-rater reliability to see which controls should be used for each domain and consensus-based approach for any items that didn't meet the IRR threshold. We have planned measurements for the first draft of measurement questionnaire for each selected control.
+We have evaluated three domains (perimeter, Endpoint Technology, Identity Management) against the NIST CSF controls and have created smaller and more specific control for each domain. We choose these three domains because of the significant difference from each other. This process shows that the process can be reused for other domains and is flexible in its implementation. We used Inter-rater Reliability (IRR) to see which controls should be used for each domain and consensus-based approach for any items that didn't meet the IRR threshold. We have planned measurements for the first draft of measurement questionnaire for each selected control.
 
 ## Outcomes
 
