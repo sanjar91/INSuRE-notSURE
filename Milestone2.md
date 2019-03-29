@@ -59,21 +59,22 @@ The generally accepted level of agreement is 75% for a minimal agreement with 90
 If we change the minimal level of agreement to 60%, we are able to form conclusions on if the controls are considered relevant and final. If the controls reached 60% (if 4 of the 5 members voted similarly), the control was accepted as either relevant or not relevant. The same result occurred if the vote was unanimous. If the level of agreement did not reach 60%, we used the consensus approach. *How should we talk about our consensus approach*
 Some controls were vague in their description which made reaching a level of agreement difficult. To combat this, some controls had their definitions tweaked to a group agreed upon definition which allowed us to rate comfortably.
 
+The outcome of the IRR and consensus approaches provided us with a subset of the overall controls for each of the three classes of technology that we are evaluating.  The control subsets for each are shown below.
 
+##### Identity Management
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
+
+##### Next Generation Firewalls
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/PerimeterControls.png">
+
+##### Endpoint Detection and Response
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 #### Survey Methodology and Outcomes  
 
 ##### Survey/Scoring
 Each domain is surveyed/scored based upon controls that are applicable to that domain.  The controls for each domain are dispalyed below:
 
-##### Identity Management
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
-
-##### Perimeter
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/PerimeterControls.png">
-
-##### EDR
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 ##### Maturity Model
 The scoring tool uses a maturity ranking/scoring of each item to determine the average score based upon NIST CSF categories. </br>
