@@ -65,19 +65,19 @@ We use to use the Inter-Rater Reliability (IRR) measurement as a way to narrow d
 
 | Control | Sarah | Lisa | Collin | Lyle | Sanjar |
 |---------|-------|------|--------|------|--------|
-| ID.AM-1: Physical devices and systems within the organization are inventoried | No | No | Yes | Yes | Yes |
+| ID.AM-1: Physical devices and systems within the organization are inventoriedID.RA-1: Asset vulnerabilities are identified and documented | No | Yes | Yes | Yes | Yes |
 
 To calculate the IRR, the result provided by each person is compared to the result provided by every other person to see how each pair agrees.  To continue the example above, the pair-wise comparison is shown in the table below.
 
 | Pair | Answer 1 | Answer 2 | Agreement |
 |------|----------|----------|-----------|
-| Sarah & Lisa | No | No | 1 |
+| Sarah & Lisa | No | Yes | 0 |
 | Sarah & Collin | No | Yes | 0 |
 | Sarah & Lyle | No | Yes | 0 |
 | Sarah & Sanjar | No | Yes | 0 |
-| Lisa & Collin | No | Yes | 0 |
-| Lisa & Lyle | No | Yes | 0 |
-| Lisa & Sanjar | No | Yes | 0 |
+| Lisa & Collin | Yes | Yes | 1 |
+| Lisa & Lyle | Yes | Yes | 1 |
+| Lisa & Sanjar | Yes | Yes | 1 |
 | Collin & Lyle | Yes | Yes | 1 |
 | Collin & Sanjar | Yes | Yes | 1 |
 | Lyle & Sanjar | Yes | Yes | 1 |
