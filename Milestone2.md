@@ -94,7 +94,9 @@ The tool averages each of categories and compares it to a baseline or another se
 
 
 ## Hinderances
-The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain are subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.
+The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain can be subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.  To combat this issue, we use to use the IRR and consensus approach.  With the IRR approach, our hope is that a different group of approximately five people would come to similar levels of consensus that we did and that this would be repeatable.
+
+Introducing the IRR approach did introduce it's own challenges.  As discussed above, the threshold for agreement in the IRR approach is generally considered to be 75%, which is higher than our group of five people is mathematically capable of achieving unless we have 100% agreement.
 
 ## Ongoing Risks
 |Risk name (value)  | Impact     | Likelihood | Description |
