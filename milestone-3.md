@@ -30,7 +30,7 @@ and
 
 P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item being relation, is defined as
 
-  ![equation](http://www.sciweavers.org/tex2img.php?eq=p_i%20%3D%20%5Cfrac%7B1%7D%7Bn%28n-1%29%7D%20%5Cbig%28%20%5Csum_%7Bj%3D1%7D%5Ek%20n_%7Bij%7D%5E%7B2%7D%20-%20n%20%5Cbig%29%20%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  ![equation](http://bit.ly/2VdfeWV)
 
 and P<sub>j</sub>, which measures the proportion of which raters chose a given category compared to all categories, is defined as
 
