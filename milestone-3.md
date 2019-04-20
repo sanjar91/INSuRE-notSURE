@@ -38,7 +38,17 @@ and P<sub>j</sub>, which measures the proportion of which raters chose a given c
 
  In these equations, N corresponds to the number of items being rated, n is the number of raters, and k is the number of categories that the raters can select for each item being rated.  A value of k=1 indicates complete agreement.
 
-Our scenario had five raters (*n* = 5) rate 98 controls (N = 98) as either *Yes*, the control is measurable in the given technology domain, or *No*, the control is not measurable in the given technology domain (*k* = 2).
+Our scenario had five raters (*n* = 5) rate 98 controls (N = 98) as either *Yes*, the control is measurable in the given technology domain, or *No*, the control is not measurable in the given technology domain (*k* = 2).  
+
+Below are the following values we calculated for P and P<sub>e</sub> and the subsequent values of kappa for each of the three evaluated technology domains, rounded to four decimals.
+
+| Technology Domain | P | P<sub>e</sub> | kappa |
+|-------------------|---|---------------|-------|
+|Identity Management|0.5510|0.5176|0.0692|
+|Perimeter|0.6546|0.4991|0.3104|
+|Endpoint Detection & Response|0.5918|0.5184|0.1524|
+
+Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
