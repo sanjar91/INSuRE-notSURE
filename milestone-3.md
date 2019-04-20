@@ -34,7 +34,7 @@ P<sub>i</sub>, which measures the extent to which all the raters are in agreemen
 
 and P<sub>j</sub>, which measures the proportion of which raters chose a given category compared to all categories, is defined as
 
-  ![equation](http://www.sciweavers.org/tex2img.php?eq=p_j%20%3D%20%5Cfrac%7B1%7D%7BN%28n%29%7D%20%5Csum_%7Bi%3D1%7D%5EN%20n_%7Bij%7D%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  ![equation](http://bit.ly/2VXd2js)
 
  In these equations, N corresponds to the number of items being rated, n is the number of raters, and k is the number of categories that the raters can select for each item being rated.  A value of k=1 indicates complete agreement.
 
