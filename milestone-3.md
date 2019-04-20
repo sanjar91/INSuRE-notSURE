@@ -18,15 +18,15 @@ First, we recalculated the inter-rater reliability.  Following additional resear
 
 With our new IRR calculation, we used the Fleiss' Kappa calculation.  The Fleiss Kappa was chosen because of it's strength in measuring IRR among more than two raters. According to [1], the Fleiss Kappa is calculated using the function  
 
-  ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Ckappa%20%3D%20%5Cfrac%7B%5Cbar%7BP%7D%20%20-%20%20%5Cbar%7B%20P_%7Be%7D%20%7D%7D%7B%201%20-%20%20%5Cbar%7B%20P_%7Be%7D%20%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  ![equation](http://bit.ly/2VhWuFK)
 
 where
 
-  ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cbar%7BP%7D%20%3D%20%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5EN%20P_%7Bi%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  ![equation](http://bit.ly/2VV7c2g)
 
 and
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cbar%7BP_e%7D%20%3D%20%5Csum_%7Bj%3D1%7D%5EN%20P_%7Bj%7D%5E%7B2%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
+![equation](http://bit.ly/2VgE20l).
 
 P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item being relation, is defined as
 
