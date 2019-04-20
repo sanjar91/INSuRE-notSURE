@@ -9,6 +9,8 @@ also list them out like this:
 * outcome 1
 * outcome 2
 
+#### Methodology
+
 We further refined our methodology during this milestone.  We learned that the previous calculation we used for inter-rater reliability (IRR) did not effectively accomplish the goal we were trying to meet.  We have revised our methodology in the following ways, explained in more detail below:
  * Recalculated inter-rater reliability over the entire control set for each technology domain
  * Based on the level of agreeability, calculated the percent agreement for each individual control
@@ -44,7 +46,35 @@ Below are the following values we calculated for P and P<sub>e</sub> and the sub
 |Perimeter|0.6546|0.4991|0.3104|
 |Endpoint Detection & Response|0.5918|0.5184|0.1524|
 
-Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
+Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the pair-wise percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
+
+To calucate pair-wise percent agreement, we used a similar equation to what was used before. We counted the number of pairs that agreed between the five raters and divided this among the total number of pairs (10) to get the percentage that the pairs agreed.  An example of this is shown below (revised from Milestone 2).  First, we show an example control and the ratings on measurability for each rater.
+
+| Control | Sarah | Lisa | Collin | Lyle | Sanjar |
+|---------|-------|------|--------|------|--------|
+| ID.AM-1: Physical devices and systems within the organization are inventoriedID.RA-1: Asset vulnerabilities are identified and documented | No | Yes | Yes | Yes | Yes |
+
+Next, we identified the number of pairs that agree for each control.  An example of this for the above control is shown in the following table.
+
+| Pair | Answer 1 | Answer 2 | Agreement |
+|------|----------|----------|-----------|
+| Sarah & Lisa | No | Yes | 0 |
+| Sarah & Collin | No | Yes | 0 |
+| Sarah & Lyle | No | Yes | 0 |
+| Sarah & Sanjar | No | Yes | 0 |
+| Lisa & Collin | Yes | Yes | 1 |
+| Lisa & Lyle | Yes | Yes | 1 |
+| Lisa & Sanjar | Yes | Yes | 1 |
+| Collin & Lyle | Yes | Yes | 1 |
+| Collin & Sanjar | Yes | Yes | 1 |
+| Lyle & Sanjar | Yes | Yes | 1 |
+|**Total** | | | **6** |
+
+The final step in this process was to add up the number of pairs that agreed and divide by the total number of pairs evaluated to give the pair-wise percent agreement.  In this case, 4 out of 10 pairs agreed, which gives us a 40% agreement on this control.
+
+Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreemnt of 60% or more (indicating that 4 out of the 5 raters agreed) was either included in the final list of controls or excluded from it based on the majority decision of the raters.
+
+All remaining controls (those which had an agreement of less than 60%) were then evaluated using the consensus-based approach explained in previous milestones to determine if the controls were measurable in the given domain or not. 
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
