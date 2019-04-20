@@ -22,11 +22,7 @@ With our new IRR calculation, we used the Fleiss' Kappa calculation.  The Fleiss
 
 where
 
-  ![equation](http://bit.ly/2VV7c2g)
-
-and
-
-![equation](http://bit.ly/2VgE20l).
+  ![equation](http://bit.ly/2VV7c2g) and ![equation](http://bit.ly/2VgE20l).
 
 P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item being relation, is defined as
 
