@@ -4,15 +4,25 @@
 
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls. The inability to measure the effectiveness of cybersecurity controls has a large potential impact on organizations. It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
 
-The goal of this project is:
+Initial investigation into the problem of the effective cybersecurity measurement revealed a variety of frameworks that have been published for the purpose of measuring cybersecurity programs.  Some of the most popular are listed below:
+ * NIST 800-53 - Security and Privacy Controls for Federal Information Systems and Organizations
+ * NIST Cybersecurity Framework
+ * CIS Top 20 Critical Security Controls
+ * ISO 27001/27002
+Each of these are effective frameworks for measuring cybersecurity programs as a whole.  Many of them utilize a risk-based approach to doing so.  However, this approach makes it challenging to apply the framework for measuring a specific tool or set of tools.  Others, such as the CIS Top 20 Controls, are more technically oriented, but still apply controls at too high of a level.  When evaluating a specific type of tool, say a perimeter firewall, the Top 20 controls do not cover the breadth of measurement that would be required to effectively measure the  tool.
 
-Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a various security tools within the reference frame.
-Determine a rating/metric scale to measure the effectiveness of the controls
-Determine how effectively the rating/metric scale can be applied to the test organization
-If this project is successful, the metrics will be able to provide a report card of a security environment or domain. The end goal would be used in an overall report card of a security program effectiveness if all tools could be evaluated with the same standards.
+Over the course of this project, we created a repeatable methodology that can be used to identify a set of controls or questions that can be asked about a specific tool with the objective of more effectively measuring given tools.  This methodology was then applied in the context of three technology domains and evaluated for effectiveness with test organizations.
+
+If this methodology is successful, it has the potential to greatly reduce the amount of toil that teams go through when evaluating new products, either because they waste time evaluating against controls that do not make sense or because they do not have a clear vision about how to measure tools.  This methodology could help provide that direction.  Additionally, it could assist companies in ensuring that their cybersecurity tools are meeting their needs, something that is not easy to measure in a standardized way today.
 
 ## Project Goals
 (high level project goals, reuse from milestone 1, update if scope changed)
+
+The goal of this project is:
+
+ * Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a various security tools within the reference frame.
+ * Determine a rating/metric scale to measure the effectiveness of the controls
+ * Determine how effectively the rating/metric scale can be applied to the test organization
 
 ## Project Methodology
 (specific methodology followed in the project, reuse from milestone 1/2, update if scope changed)
