@@ -1,6 +1,15 @@
-# Project name
+# Effective Cybersecurity Measurement using the NIST CSF
 ## Executive Summary
 (overview of project, reuse from milestone 1, update if scope changed)
+
+Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls. The inability to measure the effectiveness of cybersecurity controls has a large potential impact on organizations. It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
+
+The goal of this project is:
+
+Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a various security tools within the reference frame.
+Determine a rating/metric scale to measure the effectiveness of the controls
+Determine how effectively the rating/metric scale can be applied to the test organization
+If this project is successful, the metrics will be able to provide a report card of a security environment or domain. The end goal would be used in an overall report card of a security program effectiveness if all tools could be evaluated with the same standards.
 
 ## Project Goals
 (high level project goals, reuse from milestone 1, update if scope changed)
