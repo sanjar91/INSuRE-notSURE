@@ -70,7 +70,7 @@ Next, we identified the number of pairs that agree for each control.  An example
 | Lyle & Sanjar | Yes | Yes | 1 |
 |**Total** | | | **6** |
 
-The final step in this process was to add up the number of pairs that agreed and divide by the total number of pairs evaluated to give the pair-wise percent agreement.  In this case, 4 out of 10 pairs agreed, which gives us a 40% agreement on this control.
+The final step in this process was to add up the number of pairs that agreed and divide by the total number of pairs evaluated to give the pair-wise percent agreement.  In this case, 6 out of 10 pairs agreed, which gives us a 60% agreement on this control.
 
 Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreemnt of 60% or more (indicating that 4 out of the 5 raters agreed) was either included in the final list of controls or excluded from it based on the majority decision of the raters.
 
