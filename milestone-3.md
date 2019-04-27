@@ -46,9 +46,9 @@ Below are the following values we calculated for P and P<sub>e</sub> and the sub
 |Perimeter|0.6546|0.4991|0.3104|
 |Endpoint Detection & Response|0.5918|0.5184|0.1524|
 
-Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the pair-wise percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
+Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the pairwise percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
 
-To calucate pair-wise percent agreement, we used a similar equation to what was used before. We counted the number of pairs that agreed between the five raters and divided this among the total number of pairs (10) to get the percentage that the pairs agreed.  An example of this is shown below (revised from Milestone 2).  First, we show an example control and the ratings on measurability for each rater.
+To calculate pairwise percent agreement, we used a similar equation to what was used before. We counted the number of pairs that agreed between the five raters and divided this among the total number of pairs (10) to get the percentage that the pairs agreed.  An example of this is shown below (revised from Milestone 2).  First, we show an example control and the ratings on measurability for each rater.
 
 | Control | Sarah | Lisa | Collin | Lyle | Sanjar |
 |---------|-------|------|--------|------|--------|
