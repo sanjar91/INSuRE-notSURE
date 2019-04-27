@@ -52,7 +52,7 @@ To calculate pairwise percent agreement, we used a similar equation to what was 
 
 | Control | Sarah | Lisa | Collin | Lyle | Sanjar |
 |---------|-------|------|--------|------|--------|
-| ID.AM-1: Physical devices and systems within the organization are inventoriedID.RA-1: Asset vulnerabilities are identified and documented | No | Yes | Yes | Yes | Yes |
+| ID.RA-1: Asset vulnerabilities are identified and documented | No | Yes | Yes | Yes | Yes |
 
 Next, we identified the number of pairs that agree for each control.  An example of this for the above control is shown in the following table.
 
