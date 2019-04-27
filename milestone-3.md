@@ -18,7 +18,7 @@ We further refined our methodology during this milestone.  We learned that the p
 
 First, we recalculated the inter-rater reliability.  Following additional research, we learned that the IRR calculation is significantly more reliable when there are more items being measured with it.  As a result, we altered our methodology to calculate IRR over the entire set of controls instead of individual controls to get a better idea of the degree to which we agreed overall.
 
-With our new IRR calculation, we used the Fleiss' Kappa calculation.  The Fleiss Kappa was chosen because of it's strength in measuring IRR among more than two raters. According to [1], the Fleiss Kappa is calculated using the function  
+With our new IRR calculation, we used the Fleiss' Kappa calculation.  The Fleiss Kappa was chosen because of its strength in measuring IRR among more than two raters. According to [1], the Fleiss Kappa is calculated using the function  
 
   ![equation](http://bit.ly/2VhWuFK)
 
@@ -26,7 +26,7 @@ where
 
   ![equation](http://bit.ly/2VV7c2g) and ![equation](http://bit.ly/2VgE20l).
 
-P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item being relation, is defined as
+P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item, is defined as
 
   ![equation](http://bit.ly/2VdfeWV)
 
