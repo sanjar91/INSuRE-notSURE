@@ -21,8 +21,9 @@ If this methodology is successful, it has the potential to greatly reduce the am
 The goal of this project is:
 
  * Determine if it is possible to use the Cybersecurity Framework from NIST (NIST-CSF) as a tool to determine the controls that should be in place for a various security tools within the reference frame.
- * Determine a rating/metric scale to measure the effectiveness of the controls
- * Determine how effectively the rating/metric scale can be applied to the test organization
+ * Determine a rating/metric scale to measure the effectiveness of security tools using the subset of controls that should be in place for that class of technology
+ * Develop a survey to be used by individuals looking to rank or compare security tools in specific technology classes.
+ * Determine how effectively the measurement survey can be applied to test organizations and how easy the survey makes it to measure tool effectiveness compared to evaluating against all controls
 
 ## Project Methodology
 (specific methodology followed in the project, reuse from milestone 1/2, update if scope changed)
