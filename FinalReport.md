@@ -143,7 +143,13 @@ Next, we identified the number of pairs that agree for each control.  An example
 
 The final step in this process was to add up the number of pairs that agreed and divide by the total number of pairs evaluated to give the pair-wise percent agreement.  In this case, 6 out of 10 pairs agreed, which gives us a 60% agreement on this control.
 
-Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreement of 75% or more was either included in the final list of controls or excluded from it based on the majority decision of the raters.
+Calculating pairwise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreement of 75% or more was either included in the final list of controls or excluded from it based on the majority decision of the raters.
+
+#### Consensus-Based Approach
+
+The pairwise percent agreement account for some of the CSF controls.  However, many controls fell below the 75% mark.  This confirmed for our team that the controls are ambiguous and prone to being interpreted differently by different people.  As a result, we chose to use a consensus-based approach as our final step in our methodology.
+
+In the consensus process, we discussed each of the remaining controls as a group.  In our discussions, we learned how the controls were being interpreted by each member of the team and were able to further refine definitions .  For example, we determined as a group that "assets", which are commonly referred to in the control set, can refer to a computer asset or an information or human asset as well.  Discussing and narrowing these definitions allowed us to narrow down the control set to a manageable level for evaluating the effectiveness of a tool.  The output of these steps provided us with a subset of controls for each technology class that could be used for rating tools in a more manageable way.
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
