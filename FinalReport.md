@@ -69,7 +69,51 @@ Next, we established a control selection methodology, which is a repeatable proc
 
 Next, we explain each of these steps in further detail.
 
+First, each member of our team rated each control against its potential to be measured in the given class of technology.  We defined measurement as whether or not a tool could be rated on the following maturity model scale:
 
+Level 0 - Ad-hoc or Not Implemented</br>
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
+Level 2- Defined - Largely Implemented</br>
+Level 3 - Quantitatively Managed - Fully Implemented</br>
+Level 4 - Optimizing - Achieved</br>
+
+For example, if a CSF control indicated whether a specific feature in a tool was implemented, it could be measured on this scale because you can measure the how mature that implementation was.  However, if a CSF control dealt with whether policies were in place, that would not be measurable for the tool on this scale.
+
+For each control, the rater chose an answer of "Yes, the control is applicable and measurable in this domain" or "No, the control is either not applicable or not measurable in this domain".  With each control assessed in each technology class, the next step was to get an idea of how well the group agreed on which controls were measurable and should be included in the survey for each domain.
+
+#### Inter-rater Reliability
+
+We chose to use the Inter-Rater Reliability (IRR) measurement as a way to determine the overall level of agreement between our team of raters within in technology class.  Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” [5].  We calculated IRR using the Fleiss' Kappa calculation.  The Fleiss Kappa was chosen because of its strength in measuring IRR among more than two raters.
+
+According to [1], the Fleiss Kappa is calculated using the function
+
+![equation](http://bit.ly/2VhWuFK)
+
+where
+
+![equation](http://bit.ly/2VV7c2g) and ![equation](http://bit.ly/2VgE20l).
+
+P<sub>i</sub>, which measures the extent to which all the raters are in agreement about a given item, is defined as
+
+![equation](http://bit.ly/2VdfeWV)
+
+and P<sub>j</sub>, which measures the proportion of which raters chose a given category compared to all categories, is defined as
+
+![equation](http://bit.ly/2VXd2js)
+
+In these equations, N corresponds to the number of items being rated, n is the number of raters, and k is the number of categories that the raters can select for each item being rated.  A value of k=1 indicates complete agreement.
+
+Our scenario had five raters (*n* = 5) rate 98 controls (N = 98) as either *Yes*, the control is measurable in the given technology domain, or *No*, the control is not measurable in the given technology domain (*k* = 2).  
+
+Below are the following values we calculated for P and P<sub>e</sub> and the subsequent values of kappa for each of the three evaluated technology domains, rounded to four decimals.
+
+| Technology Domain | P | P<sub>e</sub> | kappa |
+|-------------------|---|---------------|-------|
+|Identity Management|0.5510|0.5176|0.0692|
+|Perimeter|0.6546|0.4991|0.3104|
+|Endpoint Detection & Response|0.5918|0.5184|0.1524|
+
+Based on these calculations, we found that there is minimal agreement among the raters at best.  As a result of this, we decided to calculate the pairwise percent agreement among the raters for each of the controls individually to assist in narrowing down which controls are measurable for a given technology domain.
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
