@@ -60,6 +60,17 @@ With the three classes of technology defined, the team moved on to evaluating th
 
 #### Control Selection Methodology and Outcomes
 
+Next, we established a control selection methodology, which is a repeatable process that can be used to identify the subset of controls that are measurable in a given technology domain.  This process, at a high level, contains the following steps:
+
+1. Each member of a team of raters rates each control in the NIST CSF on whether it is measurable in the given technology class.
+* Inter-rater reliability (IRR) is calculated for all controls for the given technology class to determine the overall level of agreement between the raters.
+* If IRR outcomes indicate low levels of agreement, calculate the pairwise percent agreement for each control to identify controls that can be included or excluded based on agreement among raters.
+* For all remaining controls, use a consensus-based approach to determine if the control is measurable or not.
+
+Next, we explain each of these steps in further detail.
+
+
+
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
 
