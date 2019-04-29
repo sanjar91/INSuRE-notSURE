@@ -149,7 +149,16 @@ Calculating pairwise percent agreement allows us to include or eliminate specifi
 
 The pairwise percent agreement account for some of the CSF controls.  However, many controls fell below the 75% mark.  This confirmed for our team that the controls are ambiguous and prone to being interpreted differently by different people.  As a result, we chose to use a consensus-based approach as our final step in our methodology.
 
-In the consensus process, we discussed each of the remaining controls as a group.  In our discussions, we learned how the controls were being interpreted by each member of the team and were able to further refine definitions .  For example, we determined as a group that "assets", which are commonly referred to in the control set, can refer to a computer asset or an information or human asset as well.  Discussing and narrowing these definitions allowed us to narrow down the control set to a manageable level for evaluating the effectiveness of a tool.  The output of these steps provided us with a subset of controls for each technology class that could be used for rating tools in a more manageable way.
+In the consensus process, we discussed each of the remaining controls as a group.  In our discussions, we learned how the controls were being interpreted by each member of the team and were able to further refine definitions .  For example, we determined as a group that "assets", which are commonly referred to in the control set, can refer to a computer asset or an information or human asset as well.  Discussing and narrowing these definitions allowed us to narrow down the control set to a manageable level for evaluating the effectiveness of a tool.  The output of these steps provided us with a subset of controls for each technology class that could be used for rating tools in a more manageable way.  The subset of controls that were identified for each technology class is shown below.
+
+##### Identity Management
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/IDMControls.png">
+
+##### Next Generation Firewalls
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/PerimeterControls.png">
+
+##### Endpoint Detection and Response
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
