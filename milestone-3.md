@@ -72,9 +72,9 @@ Next, we identified the number of pairs that agree for each control.  An example
 
 The final step in this process was to add up the number of pairs that agreed and divide by the total number of pairs evaluated to give the pair-wise percent agreement.  In this case, 6 out of 10 pairs agreed, which gives us a 60% agreement on this control.
 
-Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreemnt of 60% or more (indicating that 4 out of the 5 raters agreed) was either included in the final list of controls or excluded from it based on the majority decision of the raters.
+Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreement of 75% or more was either included in the final list of controls or excluded from it based on the majority decision of the raters.
 
-All remaining controls (those which had an agreement of less than 60%) were then evaluated using the consensus-based approach explained in previous milestones to determine if the controls were measurable in the given domain or not. 
+All remaining controls (those which had an agreement of less than 60%) were then evaluated using the consensus-based approach explained in previous milestones to determine if the controls were measurable in the given domain or not.
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
