@@ -171,6 +171,10 @@ In the consensus process, we discussed each of the remaining controls as a group
 
 We will further work on improving the measurement survey by adding automation features and allowing the users to dynamically change controls within the survey so it best fits their organization’s needs.
 
+In our current design after a user completes our survey, we manually collect their responses and load them into an Excel spread sheet and statically create pivot tables and charts to generate the corresponding results. In future, we could improve this flow by adding automation to the survey, such that results are automatically generated as soon as a user completes the survey. 
+
+In addition, we would also improve the survey by adding user discretion; the non-trivial parts of the survey such as tools’ naming convention can be replaced by whatever the user’s organization uses. The new proposed flow will ask users on the first page of the survey if they would like to proceed with the universal survey or change it to better satisfy their needs and requirements. 
+
 ## Install Instructions (if applicable)
 ### Requirements
 (list of any software / hardware requirements necessary to run the code/app/etc)
