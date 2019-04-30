@@ -169,6 +169,7 @@ In the consensus process, we discussed each of the remaining controls as a group
 
 ## Future Work
 
+We will further work on improving the measurement survey by adding automation features and allowing the users to dynamically change controls within the survey so it best fits their organization’s needs.
 
 ## Install Instructions (if applicable)
 ### Requirements
