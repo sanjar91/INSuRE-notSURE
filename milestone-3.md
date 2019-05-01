@@ -14,9 +14,10 @@ Once the tool was finalized, we had sent it to several organizations to be fille
 ## Outcomes
 We created the Tool based off the NIST framework. IN that we used the controls that NIST provides in our tool. We went through and decided which Controls should be applied to each area that our tool was designed for. (end point, user Management, Perimeter) We did this through two methods <insert both methods here> Once the controls were chosen we added them to the Tool. 
 
-also list them out like this:
-* outcome 1
-* outcome 2
+* Continued refinining measurements for the scoring form.
+* Refined methodology including IRR recalculation, introduced pairwise percent agreement, and further explored using consensus agreement.
+* Created Google Form version of the tool to be user friendly.
+* Sent the survey to two organizations for testing.
 
 #### Methodology
 
