@@ -160,6 +160,9 @@ In the consensus process, we discussed each of the remaining controls as a group
 ##### Endpoint Detection and Response
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
+#### Measurement Survey Creation
+Lisa Insert 
+
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
 
@@ -167,7 +170,9 @@ In the consensus process, we discussed each of the remaining controls as a group
 * outcome 1
 * outcome 2
 
-## Future Work
+Survey Feedback -Lisa
+
+#### Future Work
 
 We will further work on improving the measurement survey by adding automation features and allowing the users to dynamically change controls within the survey so it best fits their organization’s needs.
 
@@ -175,13 +180,5 @@ In our current design after a user completes our survey, we manually collect the
 
 In addition, we would also improve the survey by adding user discretion; the non-trivial parts of the survey such as tools’ naming convention can be replaced by whatever the user’s organization uses. The new proposed flow will ask users on the first page of the survey if they would like to proceed with the universal survey or change it to better satisfy their needs and requirements. 
 
-## Install Instructions (if applicable)
-### Requirements
-(list of any software / hardware requirements necessary to run the code/app/etc)
 
-### Installation Instructions
-(list of steps to install the product/app/code/etc)
-
-### Getting started
-(list of any steps to run the code after installation and/or manage the apps over their lifecycle)
 
