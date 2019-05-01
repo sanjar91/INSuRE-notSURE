@@ -19,7 +19,7 @@ We created the Tool based off the NIST framework. IN that we used the controls t
 * Created Google Form version of the tool to be user friendly.
 * Sent the survey to two organizations for testing.
 
-#### Methodology
+## Methodology
 
 We further refined our methodology during this milestone.  We learned that the previous calculation we used for inter-rater reliability (IRR) did not effectively accomplish the goal we were trying to meet.  We have revised our methodology in the following ways, explained in more detail below:
  * Recalculated inter-rater reliability over the entire control set for each technology domain
