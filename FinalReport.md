@@ -1,6 +1,5 @@
 # Effective Cybersecurity Measurement using the NIST CSF
 ## Executive Summary
-(overview of project, reuse from milestone 1, update if scope changed)
 
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). However, these frameworks typically are limited to identifying which controls to apply and do not include how to measure the effectiveness of the implemented controls. The inability to measure the effectiveness of cybersecurity controls has a large potential impact on organizations. It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
 
@@ -16,7 +15,6 @@ Over the course of this project, we created a repeatable methodology that can be
 If this methodology is successful, it has the potential to greatly reduce the amount of toil that teams go through when evaluating new products, either because they waste time evaluating against controls that do not make sense or because they do not have a clear vision about how to measure tools.  This methodology could help provide that direction.  Additionally, it could assist companies in ensuring that their cybersecurity tools are meeting their needs, something that is not easy to measure in a standardized way today.
 
 ## Project Goals
-(high level project goals, reuse from milestone 1, update if scope changed)
 
 The goal of this project is:
 
@@ -26,7 +24,6 @@ The goal of this project is:
  * Determine how effectively the measurement survey can be applied to test organizations and how easy the survey makes it to measure tool effectiveness compared to evaluating against all controls
 
 ## Project Methodology
-(specific methodology followed in the project, reuse from milestone 1/2, update if scope changed)
 
 #### Project Overview
 Cybersecurity departments across the United States all face a common problem: they spend loads of money and resources on implementing strong security controls with no standard way to measure the effectiveness of those controls. There are numerous frameworks that exist, including the Cybersecurity Framework from NIST. However, these frameworks typically are limited to measuring security programs as a whole and do not focus on how to measure the effectiveness of security tools that have been implemented.  The inability to measure the effectiveness of cybersecurity tools, specifically, has a large potential impact on organizations.  It can lead them to spend money on the wrong technologies, the wrong tools for their situation, or to waste resources because they do not fully understand the capabilities of the tools they purchased.
@@ -46,6 +43,7 @@ When evaluating for the sake of this project, we chose to focus on the middle la
 For this project, we evaluated three unique technology domains and selected a single technology class within each domain to use in our prototype development.  In developing our prototype, we focused on the capabilities of technologies in that class in general instead of on the capabilities of specific tools.
 
 For this project, we chose to evaluate technology classes in the following technology domains.  Each of these domains are considered a building block in a successful security program while also being distinctly different from each other.  They were chosen because of their uniqueness and lack of overlap with each other.  Below we dive into more detail about each domain and the specific class of technology that is evaluated within each domain.
+
 * User Management
 * Perimeter Defenses
 * Endpoint Technology
