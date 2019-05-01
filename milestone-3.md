@@ -2,19 +2,19 @@
 ## Overview
 * Finalizing Tool:
 	We finalized the creation of the tool, with the addition of brief summaries of each control. So that the user could have a  more defined definition of the control as it relates to the Tool. We also small details to make the user experience more enjoyable. We also put added back end analytics so it would automatically make the graphs to show the ranking of the tool.
-	
+
 * Getting tool to test organizations:
 Once the tool was finalized, we had sent it to several organizations to be filled out.
-	
+
 * analyzed data returned from test organization:
-	
+
 * evaluated tool:
 
 
 ## Outcomes
-We created the Tool based off the NIST framework. IN that we used the controls that NIST provides in our tool. We went through and decided which Controls should be applied to each area that our tool was designed for. (end point, user Management, Perimeter) We did this through two methods <insert both methods here> Once the controls were chosen we added them to the Tool. 
+We created the Tool based off the NIST framework. IN that we used the controls that NIST provides in our tool. We went through and decided which Controls should be applied to each area that our tool was designed for. (end point, user Management, Perimeter) We did this through two methods <insert both methods here> Once the controls were chosen we added them to the Tool.
 
-* Continued refinining measurements for the scoring form.
+* Continued refining measurements for the scoring form.
 * Refined methodology including IRR recalculation, introduced pairwise percent agreement, and further explored using consensus agreement.
 * Created Google Form version of the tool to be user friendly.
 * Sent the survey to two organizations for testing.
