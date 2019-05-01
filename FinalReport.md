@@ -83,7 +83,7 @@ For each control, the rater chose an answer of "Yes, the control is applicable a
 
 We chose to use the Inter-Rater Reliability (IRR) measurement as a way to determine the overall level of agreement between our team of raters within in technology class.  Inter-rater Reliability is “a numerical estimate/measure of the degree of agreement among raters” [5].  We calculated IRR using the Fleiss' Kappa calculation.  The Fleiss Kappa was chosen because of its strength in measuring IRR among more than two raters.
 
-According to [1], the Fleiss Kappa is calculated using the function
+According to [6], the Fleiss Kappa is calculated using the function
 
 ![equation](http://bit.ly/2VhWuFK)
 
@@ -159,7 +159,7 @@ In the consensus process, we discussed each of the remaining controls as a group
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 #### Measurement Survey Creation
-Lisa Insert 
+Lisa Insert
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
@@ -174,9 +174,21 @@ Survey Feedback -Lisa
 
 We will further work on improving the measurement survey by adding automation features and allowing the users to dynamically change controls within the survey so it best fits their organization’s needs.
 
-In our current design after a user completes our survey, we manually collect their responses and load them into an Excel spread sheet and statically create pivot tables and charts to generate the corresponding results. In future, we could improve this flow by adding automation to the survey, such that results are automatically generated as soon as a user completes the survey. 
+In our current design after a user completes our survey, we manually collect their responses and load them into an Excel spread sheet and statically create pivot tables and charts to generate the corresponding results. In future, we could improve this flow by adding automation to the survey, such that results are automatically generated as soon as a user completes the survey.
 
-In addition, we would also improve the survey by adding user discretion; the non-trivial parts of the survey such as tools’ naming convention can be replaced by whatever the user’s organization uses. The new proposed flow will ask users on the first page of the survey if they would like to proceed with the universal survey or change it to better satisfy their needs and requirements. 
+In addition, we would also improve the survey by adding user discretion; the non-trivial parts of the survey such as tools’ naming convention can be replaced by whatever the user’s organization uses. The new proposed flow will ask users on the first page of the survey if they would like to proceed with the universal survey or change it to better satisfy their needs and requirements.
+
+## Resources
+
+[1]: NIST Cybersecurity Framework (https://www.nist.gov/cyberframework)
 
 
+[2]: Cao, Y., & Yang, L. (2010, December). A survey of identity management technology. In 2010 IEEE International Conference on Information Theory and Information Security (pp. 287-293). IEEE.
 
+[3]: Malecki, F. (2012). Next-generation firewalls: Security with performance. Network Security, 2012(12), 19-20.
+
+[4]: Gartner Endpoint Detection and Response Solutions (https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions)
+
+[5]: Portland Community College. Inter-rater Reliability: Challenges affecting LAC assessment projects. (https://www.pcc.edu/resources/academic/learning-assessment/documents/LACMtg2InterRater_Reliability.pdf)
+
+[6]: Nichols, T. R., Wisner, P. M., Cripe, G. and Gulabchand, L. (2010), Putting the Kappa Statistic to Use. Qual Assur J, 13: 57-61. doi:10.1002/qaj.481
