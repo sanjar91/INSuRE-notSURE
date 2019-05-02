@@ -120,7 +120,12 @@ We also allowed for comments to be made on ease of use, did the survey include t
 Ease of use comments were fairly consistent that the tool was self-explanatory. The adequate evaluation comments were not very enlightening except one user would like the ability to select more controls.  The improvement suggestions were to automate the reporting graphs and to allow the users to compare more than 2 tools.
 
 ## Hinderances
-(insert brief discussion of challenges encountered)
+The challenge of this methodology is that the controls that were chosen to be used to evaluate the security tools based upon domain can be subjective to the group that was deciding them.  Another person may chose to evaluate based upon slightly different criteria.  To combat this issue, we use to use the IRR and consensus approach.  With the IRR approach, our hope is that a different group of approximately five people would come to similar levels of consensus that we did and that this would be repeatable.
+
+Introducing the IRR approach did introduce it's own challenges.  As discussed above, the threshold for agreement in the IRR approach is generally considered to be 75%, which is higher than our group of five people is mathematically capable of achieving unless we have 100% agreement.  To reduce the impact of this, we added the consensus approach.  Additionally, we adopted a revised threshold of 60% for the sake of this project as described above.
+
+In addition, time constrain was a big challenge on our final mile stone. We would prefer to send our measurement survey to more than two organizations in order to get more accurate feedback. Having additional time and feedback would've helped us re-engineer the survey that best suits a user's needs and requirements. 
+
 
 ## References
 [1] Nichols, T. R., Wisner, P. M., Cripe, G. and Gulabchand, L. (2010), Putting the Kappa Statistic to Use. Qual Assur J, 13: 57-61. doi:10.1002/qaj.481
