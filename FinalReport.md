@@ -192,7 +192,19 @@ Once the user answers the questions, the tool sums the answers inside each of th
 * outcome 1
 * outcome 2
 
-Survey Feedback -Lisa
+#### Survey Feedback 
+To measure whether or not the tool was useful and would meet the needs of the cybersecurity professionals, we included a survey at the end to capture this data.  We had 5 people use the tool from 2 different test organizations.  These people included security analysts, highly technical security engineers, and governance/risk/compliance professionals.  
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/FeedbackSurvey.png">
+
+The results were very promising:
+Ease of use:  4.4
+Understandable:  4.0
+
+We also allowed for comments to be made on ease of use, did the survey include the necessary controls to adequately evaluate the tools, and what improvements to the tool would they like to see.
+
+Ease of use comments were fairly consistent that the tool was self-explainatory.  The adequate evalution comments were not very enlightening except one user would like the ability to select more controls.  The improvement suggestions were to automate the reporting graphs and to allow the users to compare more than 2 tools.
+
 
 #### Future Work
 
