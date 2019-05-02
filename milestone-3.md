@@ -12,7 +12,9 @@ We created the Tool based off the NIST framework. IN that we used the controls t
 
 ## Methodology
 
-We further refined our methodology during this milestone.  We learned that the previous calculation we used for inter-rater reliability (IRR) did not effectively accomplish the goal we were trying to meet.  We have revised our methodology in the following ways, explained in more detail below:
+#### Control Selection Methodology
+
+We further refined our control selection methodology during this milestone.  We learned that the previous calculation we used for inter-rater reliability (IRR) did not effectively accomplish the goal we were trying to meet.  We have revised our methodology in the following ways, explained in more detail below:
  * Recalculated inter-rater reliability over the entire control set for each technology domain
  * Based on the level of agreeability, calculated the percent agreement for each individual control
  * Used a combination of percent agreement and a consensus-based approach to determine final set of controls for each domain.
@@ -76,6 +78,46 @@ The final step in this process was to add up the number of pairs that agreed and
 Calculating pair-wise percent agreement allows us to include or eliminate specific controls based on the agreement.  Any controls with an agreement of 75% or more was either included in the final list of controls or excluded from it based on the majority decision of the raters.
 
 All remaining controls (those which had an agreement of less than 60%) were then evaluated using the consensus-based approach explained in previous milestones to determine if the controls were measurable in the given domain or not.
+
+#### Measurement Survey Creation
+
+The survey tool was created using a Google Form.  This method was chosen because the process should be universally adaptable and we did not want to use a proprietary survey tool they might not have access to.  Google forms collects all the data in a spreadsheet/table format.  It is within this table that the graphical representations of the data are calculated.  
+
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/surveytoolmain.png">
+
+The survey asks the user to compare 2 items that are desired to be measured within a specified domain: user management, perimeter defenses and endpoint technology.  
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/survey tool-domainselection.png">
+
+The two items can be individual tools that are used for the same purpose or they can be what the tool is at now and the desired state/new state.  We felt that this flexibility on what measurement 1 and 2 were allowed the survey tool to be used in multiple forms.  The scale that the users assed are based upon the Carnegie Mellon Capability Maturity Model: 
+
+Level 0 - Ad-hoc or Not Implemented</br>
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
+Level 2- Defined - Largely Implemented</br>
+Level 3 - Quantitatively Managed - Fully Implemented</br>
+Level 4 - Optimizing - Achieved</br>
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/Survey%20tool-domain.png">
+
+Once the user answers the questions, the tool sums the answers inside each of the NIST Control Families:  Identify, Protect, Detect, Respond, and Recover.  Then based upon these calculations, the following graphical representations are created:
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph2.png">
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb2.png">
+
+#### Survey Feedback 
+To measure whether or not the tool was useful and would meet the needs of the cybersecurity professionals, we included a survey at the end to capture this data.  We had 5 people use the tool from 2 different test organizations.  These people included security analysts, highly technical security engineers, and governance/risk/compliance professionals.  
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/FeedbackSurvey.png">
+
+The results were very promising: </br>
+Ease of use:  4.4 </br>
+Understandable:  4.0 </br>
+
+We also allowed for comments to be made on ease of use, did the survey include the necessary controls to adequately evaluate the tools, and what improvements to the tool would they like to see.
+
+Ease of use comments were fairly consistent that the tool was self-explanatory. The adequate evaluation comments were not very enlightening except one user would like the ability to select more controls.  The improvement suggestions were to automate the reporting graphs and to allow the users to compare more than 2 tools.
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
