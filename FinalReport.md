@@ -186,11 +186,19 @@ Once the user answers the questions, the tool sums the answers inside each of th
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb2.png">
 
 ## Results / Findings
-(brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
+We identified technologies being used in the industry and paired them with controls from the NIST Cybersecurity Framework. We used a combination of inter-rater reliablity, pairwise percent agreement, and consensus based agreement to reach an understanding as a group which controls were applicable to each idenfitied techonology. We created a backend to do the calculations and a front end in the form of a Google Form for ease of use for the user. We then sent the form out to two test organizations where cybersecurity professionals evaluated the tool and gave feedback on how it can be improved.
 
-(bulleted lists can also be helpful to structure your results discussion)
-* outcome 1
-* outcome 2
+* Identified technologies which are being used in the evaluation.
+* Completed initial evaluation of the NIST Cybersecurity Framework.
+* Applied the CSF against the identified technologies.
+* Used the inter-rater reliability function and a consensus-based approach to identify the specific vulnerabilities which are considered measurable for each identified technology.
+* Identified measurements for first draft of scoring form.
+* Continued refining measurements for the scoring form.
+* Refined methodology including an IRR recalculation, introducing pairwise percent agreement, and further used consensus based agreement.
+* Created Google Form version of the tool.
+* Sent the survey to two organizations for testing.
+* Created a feedback form for our test organizations to rate our tool.
+
 
 #### Survey Feedback 
 To measure whether or not the tool was useful and would meet the needs of the cybersecurity professionals, we included a survey at the end to capture this data.  We had 5 people use the tool from 2 different test organizations.  These people included security analysts, highly technical security engineers, and governance/risk/compliance professionals.  
