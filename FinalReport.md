@@ -181,9 +181,9 @@ Level 4 - Optimizing - Achieved</br>
 
 Once the user answers the questions, the tool sums the answers inside each of the NIST Control Families:  Identify, Protect, Detect, Respond, and Recover.  Then based upon these calculations, the following graphical representations are created:
 
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.png">
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph2.png">
 
-<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb.png">
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb2.png">
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
