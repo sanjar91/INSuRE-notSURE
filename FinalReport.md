@@ -159,7 +159,31 @@ In the consensus process, we discussed each of the remaining controls as a group
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/EDRControls.png">
 
 #### Measurement Survey Creation
-Lisa Insert
+
+The survey tool was created using a Google Form.  This method was chosen because the process should be universally adaptable and we did not want to use a proprietary survey tool they might not have access to.  Google forms collects all the data in a spreadsheet/table format.  It is within this table that the graphical representations of the data are calculated.  
+
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/surveytoolmain.png">
+
+The survey asks the user to compare 2 items that are desired to be measured within a specified domain: user management, perimeter defenses and endpoint technology.  
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/survey tool-domainselection.png">
+
+The two items can be individual tools that are used for the same purpose or they can be what the tool is at now and the desired state/new state.  We felt that this flexibility on what measurement 1 and 2 were allowed the survey tool to be used in multiple forms.  The scale that the users assed are based upon the Carnegie Mellon Capability Maturity Model: 
+
+Level 0 - Ad-hoc or Not Implemented</br>
+Level 1 - Repeatable/Managed (Risk Informed) - Partially Implemented</br>
+Level 2- Defined - Largely Implemented</br>
+Level 3 - Quantitatively Managed - Fully Implemented</br>
+Level 4 - Optimizing - Achieved</br>
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/Survey%20tool-domain.png">
+
+Once the user answers the questions, the tool sums the answers inside each of the NIST Control Families:  Identify, Protect, Detect, Respond, and Recover.  Then based upon these calculations, the following graphical representations are created:
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/bargraph.png>
+
+<img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb.png>
 
 ## Results / Findings
 (brief overview of outcomes - what did you achieve?, list milestone 1/2/3 outcomes, make an effort to logically collect and organize the findings)
