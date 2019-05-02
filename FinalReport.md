@@ -185,6 +185,8 @@ Once the user answers the questions, the tool sums the answers inside each of th
 
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/spiderweb2.png">
 
+The survey can be accessed at the [link here](https://docs.google.com/forms/d/e/1FAIpQLSd60SpIFF15RjJbTom_NlSCPLF-cCfizPItTtHVUGNf2lfh8A/viewform?usp=sf_link).
+
 ## Results / Findings
 We identified technologies being used in the industry and paired them with controls from the NIST Cybersecurity Framework. We used a combination of inter-rater reliablity, pairwise percent agreement, and consensus based agreement to reach an understanding as a group which controls were applicable to each idenfitied techonology. We created a backend to do the calculations and a front end in the form of a Google Form for ease of use for the user. We then sent the form out to two test organizations where cybersecurity professionals evaluated the tool and gave feedback on how it can be improved.
 
