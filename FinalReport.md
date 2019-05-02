@@ -188,14 +188,15 @@ Once the user answers the questions, the tool sums the answers inside each of th
 ## Results / Findings
 We identified technologies being used in the industry and paired them with controls from the NIST Cybersecurity Framework. We used a combination of inter-rater reliablity, pairwise percent agreement, and consensus based agreement to reach an understanding as a group which controls were applicable to each idenfitied techonology. We created a backend to do the calculations and a front end in the form of a Google Form for ease of use for the user. We then sent the form out to two test organizations where cybersecurity professionals evaluated the tool and gave feedback on how it can be improved.
 
+The major milestones accomplished in thhis project are:
 * Identified technologies which are being used in the evaluation.
 * Completed initial evaluation of the NIST Cybersecurity Framework.
 * Applied the CSF against the identified technologies.
 * Used the inter-rater reliability function and a consensus-based approach to identify the specific vulnerabilities which are considered measurable for each identified technology.
-* Identified measurements for first draft of scoring form.
+* Identified the measurements for the first draft of the scoring form.
 * Continued refining measurements for the scoring form.
-* Refined methodology including an IRR recalculation, introducing pairwise percent agreement, and further used consensus based agreement.
-* Created Google Form version of the tool.
+* Refined the methodology including an IRR recalculation, introduced pairwise percent agreement, and further used the consensus-based approach.
+* Created a Google Form version of the survey tool.
 * Sent the survey to two organizations for testing.
 * Created a feedback form for our test organizations to rate our tool.
 
