@@ -203,7 +203,7 @@ Understandable:  4.0 </br>
 
 We also allowed for comments to be made on ease of use, did the survey include the necessary controls to adequately evaluate the tools, and what improvements to the tool would they like to see.
 
-Ease of use comments were fairly consistent that the tool was self-explainatory.  The adequate evalution comments were not very enlightening except one user would like the ability to select more controls.  The improvement suggestions were to automate the reporting graphs and to allow the users to compare more than 2 tools.
+Ease of use comments were fairly consistent that the tool was self-explanatory. The adequate evaluation comments were not very enlightening except one user would like the ability to select more controls.  The improvement suggestions were to automate the reporting graphs and to allow the users to compare more than 2 tools.
 
 
 #### Future Work
