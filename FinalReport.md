@@ -197,9 +197,9 @@ To measure whether or not the tool was useful and would meet the needs of the cy
 
 <img src="https://github.com/sanjar91/INSuRE-notSURE/blob/master/FeedbackSurvey.png">
 
-The results were very promising:
-Ease of use:  4.4
-Understandable:  4.0
+The results were very promising: </br>
+Ease of use:  4.4 </br>
+Understandable:  4.0 </br>
 
 We also allowed for comments to be made on ease of use, did the survey include the necessary controls to adequately evaluate the tools, and what improvements to the tool would they like to see.
 
